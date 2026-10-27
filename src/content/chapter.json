@@ -1,0 +1,2053 @@
+{
+ "kicker": "Chapter 1 · GS Paper II",
+ "title": "Chapter 1: India–Pakistan Relations",
+ "syllabus": "“India and its neighbourhood — relations.” The chapter covers cross-border terrorism, the Indus Waters Treaty, Siachen and Sir Creek, ceasefire regimes, the Kartarpur Corridor and the geopolitics of Article 370.",
+ "sections": [
+  {
+   "id": "c01-s1",
+   "num": 1,
+   "title": "Background: Key Terms and Evolution of Relations",
+   "blocks": [
+    {
+     "type": "p",
+     "lead": true,
+     "html": "India and Pakistan share a frontier of about 3,323 km, the Indus basin and four wars (1947–48, 1965, 1971, 1999); both have been declared nuclear-weapon states since 1998. Every normalisation attempt (Shimla 1972, Lahore 1999, the Composite Dialogue of 2004–08) was broken by a terror attack traced to Pakistan-based groups. After the Pahalgam attack (22 April 2025, 26 killed), India held the Indus Waters Treaty (IWT) in abeyance and launched <b>Operation Sindoor</b> (7–10 May 2025); India’s position now is that “terror and talks cannot go together”."
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "1.1 Key Terms and Thinkers"
+    },
+    {
+     "type": "table",
+     "variant": "kt",
+     "head": [
+      "Term",
+      "Meaning",
+      "India–Pakistan example"
+     ],
+     "rows": [
+      [
+       "State-sponsored terrorism",
+       "Non-state groups trained, financed or sheltered by a state as a tool of policy; “bleed India through a thousand cuts” (attributed to Zia-ul-Haq’s doctrine).",
+       "US designated TRF, an LeT proxy, a terrorist organisation (17 July 2025)."
+      ],
+      [
+       "Stability–instability paradox",
+       "Nuclear weapons make full war unlikely but encourage low-level violence below the threshold (Glenn Snyder).",
+       "Kargil (1999) came a year after the 1998 tests."
+      ],
+      [
+       "Deterrence by punishment vs denial",
+       "Threatening costs after an attack vs defeating the attack itself.",
+       "Op Sindoor (punishment); fencing, air defence (denial)."
+      ],
+      [
+       "Compellence and calibrated escalation",
+       "Using force to make an adversary change behaviour, step by step (Thomas Schelling).",
+       "Terror camps on 7 May, air bases only on 10 May 2025."
+      ],
+      [
+       "Asymmetric escalation posture",
+       "A weaker state threatens early nuclear use to deter conventional attack.",
+       "Pakistan’s first-use posture and “full-spectrum deterrence”."
+      ],
+      [
+       "Security dilemma",
+       "One state’s defensive steps look offensive to the other, driving an arms race.",
+       "Missile and drone build-up on both sides after 2019."
+      ],
+      [
+       "Bilateralism (Shimla principle)",
+       "Disputes to be settled “by peaceful means through bilateral negotiations” (Shimla Agreement, 1972).",
+       "India rejects any mediation on Kashmir or ceasefires."
+      ],
+      [
+       "Hydro-diplomacy and hydro-hegemony",
+       "Using control of shared rivers as leverage (Brahma Chellaney, <i>Water: Asia’s New Battleground</i>).",
+       "IWT held in abeyance on 23 April 2025."
+      ],
+      [
+       "Two-front (collusive) threat",
+       "Facing China and Pakistan together (“two-and-a-half front” when internal threats are added).",
+       "About 81% of Pakistan’s arms imports in 2020–24 came from China."
+      ],
+      [
+       "Mandala theory",
+       "A neighbour is a natural rival; the neighbour’s neighbour is a natural ally (Kautilya, <i>Arthashastra</i>).",
+       "India’s ties with Afghanistan and Iran around Pakistan."
+      ]
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "1.2 Evolution of Relations (1947–2026)"
+    },
+    {
+     "type": "figure",
+     "id": "fig01",
+     "title": "India–Pakistan relations: milestones, 1947 to 2025",
+     "caption": "Each attempt at peace (Tashkent, Shimla, Lahore, the Composite Dialogue) was followed by a war or a major terror attack. Since 2016 India’s responses to attacks have become military and public.",
+     "map": false
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "1947–1971, wars and treaties",
+       "colon": true,
+       "html": "J&amp;K war (1947–48), UN ceasefire line (1949), IWT (1960), Tashkent (1966), the 1971 war and Bangladesh",
+       "tag": "partition legacy"
+      },
+      {
+       "label": "1972, Shimla",
+       "colon": true,
+       "html": "ceasefire line converted into the LoC; bilateralism written into the agreement",
+       "tag": "bilateralism"
+      },
+      {
+       "label": "1972–1998, proxy war",
+       "colon": true,
+       "html": "Siachen (Op Meghdoot, 1984), the 1988 nuclear installations pact, insurgency in Punjab and from 1989 in J&amp;K, nuclear tests (1998)",
+       "tag": "strategic depth"
+      },
+      {
+       "label": "1999–2008, peace process with shocks",
+       "colon": true,
+       "html": "Lahore Declaration then Kargil (1999); Parliament attack and Op Parakram (2001–02); LoC ceasefire (2003); Composite Dialogue and the Lambah–Aziz back channel (2004–07)",
+       "tag": "coercive diplomacy"
+      },
+      {
+       "label": "2008–2019, stop–start",
+       "colon": true,
+       "html": "26/11 ended dialogue; Pathankot and Uri (2016, surgical strikes); Pulwama and Balakot (2019); MFN withdrawn; Article 370 changes (August 2019)",
+       "tag": "calibrated retaliation"
+      },
+      {
+       "label": "2019–2025, cold peace",
+       "colon": true,
+       "html": "DGMO ceasefire recommitment (February 2021); Kartarpur Corridor (2019); no political dialogue",
+       "tag": "managed hostility"
+      },
+      {
+       "label": "2025 onwards, “new normal”",
+       "colon": true,
+       "html": "Pahalgam, IWT abeyance, Op Sindoor, ceasefire understanding (10 May 2025); Pakistan says it may hold Shimla in abeyance",
+       "tag": "deterrence by punishment"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s2",
+   "num": 2,
+   "title": "India’s Interests and Policy towards Pakistan",
+   "blocks": [
+    {
+     "type": "h3",
+     "id": null,
+     "text": "2.1 India’s Core Interests"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Internal security",
+       "colon": true,
+       "html": "stop infiltration, terror financing and drone-borne arms and narcotics into J&amp;K and Punjab",
+       "tag": "non-traditional security"
+      },
+      {
+       "label": "Balance of power",
+       "colon": true,
+       "html": "keep the conventional gap that Chinese arms, Gulf money and US engagement try to close",
+       "tag": "balance of power"
+      },
+      {
+       "label": "Water security",
+       "colon": true,
+       "html": "use India’s Indus share for irrigation and hydropower in J&amp;K, Punjab and Rajasthan",
+       "tag": "hydro-diplomacy"
+      },
+      {
+       "label": "Connectivity",
+       "colon": true,
+       "html": "Pakistan denies transit to Afghanistan and Central Asia, so India builds around it (Chabahar, INSTC)",
+       "tag": "geoeconomic leverage"
+      },
+      {
+       "label": "Counter-encirclement",
+       "colon": true,
+       "html": "CPEC through PoK and Gwadar give China a western foothold",
+       "tag": "String of Pearls; debt-trap diplomacy"
+      },
+      {
+       "label": "Global standing",
+       "colon": true,
+       "html": "keep India de-hyphenated from Pakistan in great-power policy",
+       "tag": "de-hyphenation"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "2.2 Policy Approach: From Restraint to Deterrence"
+    },
+    {
+     "type": "table",
+     "variant": "",
+     "head": [
+      "Approach (period)",
+      "What India did",
+      "Concept"
+     ],
+     "rows": [
+      [
+       "Engagement (1999–2008)",
+       "Lahore bus diplomacy, Composite Dialogue, cross-LoC bus (2005) and trade (2008).",
+       "Complex interdependence"
+      ],
+      [
+       "Back channel (2004–07)",
+       "Lambah–Aziz talks on a four-point Kashmir formula (soft borders, joint mechanisms).",
+       "Track II and quiet diplomacy"
+      ],
+      [
+       "Coercive diplomacy (2001–02)",
+       "Op Parakram: mass mobilisation after the Parliament attack, without a strike.",
+       "Coercive diplomacy"
+      ],
+      [
+       "Strategic restraint (2008–15)",
+       "No strike after 26/11; diplomatic isolation of Pakistan through the UN and FATF.",
+       "Strategic restraint"
+      ],
+      [
+       "Calibrated retaliation (2016–19)",
+       "Surgical strikes (2016) and the Balakot air strike (2019).",
+       "Defensive offence"
+      ],
+      [
+       "Deterrence by punishment (2025–)",
+       "Op Sindoor; doctrine of 12 May 2025: response on India’s terms, no nuclear blackmail, no distinction between terrorists and sponsors.",
+       "Deterrence by punishment"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "lead": false,
+     "html": "Neighbourhood First applies to Pakistan only conditionally (“relations in an environment free of terror”), and the non-reciprocal Gujral Doctrine (1996) was never extended to Pakistan."
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "2.3 Schools of Thought on Pakistan Policy"
+    },
+    {
+     "type": "table",
+     "variant": "",
+     "head": [
+      "School",
+      "Argument",
+      "Limitation"
+     ],
+     "rows": [
+      [
+       "Realist",
+       "Pakistan’s army is revisionist; only costs it cannot bear will change it.",
+       "Escalation risk under nuclear shadow."
+      ],
+      [
+       "Nuclear optimism (Kenneth Waltz)",
+       "Nuclear weapons make major war irrational, so crises stay limited.",
+       "Accidents and miscalculation (Scott Sagan)."
+      ],
+      [
+       "Liberal engagement",
+       "Trade, visas and dialogue build peace constituencies in Pakistan.",
+       "Every opening ended by a terror attack."
+      ],
+      [
+       "Constructivist",
+       "Rivalry rests on identity: Pakistan defined against India.",
+       "Identities change slowly."
+      ],
+      [
+       "Isolation",
+       "Cut ties and isolate Pakistan until it acts on terror.",
+       "China, US and Gulf keep engaging it."
+      ],
+      [
+       "Managed hostility",
+       "Keep technical channels (DGMO hotline, nuclear lists, prisoner lists) without political talks.",
+       "Freezes the dispute without resolving it."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s3",
+   "num": 3,
+   "title": "Agreements and Mechanisms",
+   "blocks": [
+    {
+     "type": "h3",
+     "id": null,
+     "text": "3.1 Bilateral Agreements and Their Status"
+    },
+    {
+     "type": "table",
+     "variant": "",
+     "head": [
+      "Agreement (year)",
+      "Key provision",
+      "Status (October 2026)"
+     ],
+     "rows": [
+      [
+       "Indus Waters Treaty (1960)",
+       "Eastern rivers to India, Western rivers to Pakistan with limited Indian use; Commission, Neutral Expert and Court of Arbitration.",
+       "In abeyance since 23 April 2025 (section 7)."
+      ],
+      [
+       "Tashkent Declaration (1966)",
+       "Return to pre-war positions after the 1965 war.",
+       "Historical."
+      ],
+      [
+       "Shimla Agreement (1972)",
+       "Bilateral settlement; LoC not to be altered unilaterally.",
+       "Pakistan said (24 April 2025) it may hold it in abeyance."
+      ],
+      [
+       "Religious Shrines Protocol (1974)",
+       "Group pilgrimages to listed shrines.",
+       "Operating for selected occasions."
+      ],
+      [
+       "Nuclear installations pact (1988)",
+       "Lists exchanged every 1 January.",
+       "Working; lists exchanged 1 January 2026."
+      ],
+      [
+       "Exercise notice and airspace pacts (1991)",
+       "Notice of exercises; no airspace violations.",
+       "Disputed after a naval incident (September 2026)."
+      ],
+      [
+       "Lahore Declaration (1999)",
+       "Nuclear risk reduction; dialogue on all issues.",
+       "Overtaken by Kargil."
+      ],
+      [
+       "LoC ceasefire (2003)",
+       "Ceasefire on the LoC and International Border.",
+       "Recommitted 25 February 2021; understanding of 10 May 2025."
+      ],
+      [
+       "Missile test notice (2005); nuclear accidents pact (2007)",
+       "Pre-notification of tests; notification of accidents.",
+       "Working; accidents pact extended to 2027."
+      ],
+      [
+       "Consular Access Agreement (2008)",
+       "Prisoner and fishermen lists on 1 January and 1 July.",
+       "Working."
+      ],
+      [
+       "Kartarpur Corridor (2019)",
+       "Visa-free access for Indian pilgrims to Gurdwara Darbar Sahib.",
+       "Renewed October 2024 for five years; closed since 7 May 2025."
+      ]
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "3.2 Multilateral Forums"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "SCO",
+       "colon": true,
+       "html": "both members since 2017; the Tianjin Declaration (September 2025) condemned Pahalgam",
+       "tag": "minilateralism"
+      },
+      {
+       "label": "UN 1267 committee",
+       "colon": true,
+       "html": "Indian listing proposals often blocked by Chinese “technical holds”",
+       "tag": "diplomatic shield"
+      },
+      {
+       "label": "FATF",
+       "colon": true,
+       "html": "Pakistan on the grey list from June 2018 to October 2022",
+       "tag": "terror-financing regime"
+      },
+      {
+       "label": "SAARC",
+       "colon": true,
+       "html": "no summit since Kathmandu (2014); Islamabad summit (2016) cancelled after Uri",
+       "tag": "regional security complex"
+      },
+      {
+       "label": "IMF",
+       "colon": true,
+       "html": "India abstained at the Board review of Pakistan’s US$ 7 billion facility (9 May 2025)",
+       "tag": "economic statecraft"
+      },
+      {
+       "label": "World Bank",
+       "colon": true,
+       "html": "treaty signatory; appoints the Neutral Expert and Court members, and describes its role as facilitator only",
+       "tag": "third-party facilitation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s4",
+   "num": 4,
+   "title": "Key Data: Trade, Military Balance and Water",
+   "blocks": [
+    {
+     "type": "columns",
+     "cols": [
+      [
+       {
+        "type": "list",
+        "ordered": true,
+        "items": [
+         {
+          "label": "Trade",
+          "colon": true,
+          "html": "exports to Pakistan US$ 2.07 bn (2018-19), US$ 1.18 bn (2023-24), about US$ 0.5 bn (2024-25), ₹1,037.8 crore (about US$ 0.12 bn) in May–October 2025, mostly medicines (<a href=\"https://tradestat.commerce.gov.in/\">Department of Commerce</a>)",
+          "tag": "trade as hostage"
+         },
+         {
+          "label": "Import ban",
+          "colon": true,
+          "html": "all direct and indirect imports from Pakistan banned on 2 May 2025 (<a href=\"https://www.dgft.gov.in/\">DGFT</a>)",
+          "tag": "economic coercion"
+         },
+         {
+          "label": "Diplomatic presence",
+          "colon": true,
+          "html": "no High Commissioners since August 2019; missions cut to 30 each in 2025",
+          "tag": "diplomatic downgrade"
+         },
+         {
+          "label": "Nuclear arsenals",
+          "colon": true,
+          "html": "India about 180, Pakistan about 170 warheads (estimates, January 2025)",
+          "tag": "nuclear parity"
+         },
+         {
+          "label": "Defence budget 2025-26",
+          "colon": true,
+          "html": "India ₹6.81 lakh crore (about US$ 79 bn); Pakistan about US$ 9 bn",
+          "tag": "conventional asymmetry"
+         },
+         {
+          "label": "Pakistan’s economy",
+          "colon": true,
+          "html": "US$ 7 bn IMF facility (2024); external debt about US$ 130 bn, much owed to China",
+          "tag": "debt dependence"
+         },
+         {
+          "label": "Water",
+          "colon": true,
+          "html": "India uses less than its permitted 3.6 MAF storage on the Western rivers; the Indus Commission has not met since May 2022",
+          "tag": "under-utilisation"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "figure",
+        "id": "fig02",
+        "title": "India's exports to Pakistan, FY 2018-19 to FY 2025-26 (US$ billion)",
+        "caption": "Trade collapsed after India withdrew MFN status and imposed a 200% duty (February 2019) and Pakistan suspended trade (August 2019); most exports since then are medicines allowed on humanitarian grounds. Imports from Pakistan are negligible (under US$ 0.03 billion a year since 2019-20). FY 2025-26 shows May-October 2025 only. Source: Department of Commerce, DGCI&amp;S; Lok Sabha replies.",
+        "map": false
+       }
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "variant": "",
+     "head": [
+      "Area",
+      "Current status (official data)",
+      "Target",
+      "Concern"
+     ],
+     "rows": [
+      [
+       "Counter-terrorism",
+       "Op Sindoor: 9 terror sites, 11 air bases; Op Mahadev (28 July 2025) killed the Pahalgam attackers",
+       "Verifiable dismantling of LeT, JeM",
+       "Fronts under new names; UN 1267 holds"
+      ],
+      [
+       "Water (IWT)",
+       "Abeyance; data sharing stopped; five projects fast-tracked",
+       "Full Western-river rights",
+       "Court of Arbitration award (August 2026)"
+      ],
+      [
+       "Trade and connectivity",
+       "Near zero; Attari closed; MFN withdrawn (2019)",
+       "SAFTA potential above US$ 30 bn",
+       "Transit to Afghanistan denied"
+      ],
+      [
+       "People-to-people",
+       "Kartarpur closed; visas suspended",
+       "Pilgrim flows before 2025",
+       "First casualty of crises"
+      ],
+      [
+       "Diplomacy",
+       "Chargés d’affaires only; mission strength 30",
+       "Restored High Commissioners",
+       "No political channel"
+      ],
+      [
+       "Deterrence stability",
+       "Hotline and nuclear lists working",
+       "Crisis talks within hours",
+       "Drones compress decision time"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s5",
+   "num": 5,
+   "title": "Border Geography: LoC, Siachen and Sir Creek",
+   "blocks": [
+    {
+     "type": "columns",
+     "cols": [
+      [
+       {
+        "type": "list",
+        "ordered": true,
+        "items": [
+         {
+          "label": "International Border",
+          "colon": false,
+          "html": "(about 2,400 km), Gujarat to Jammu; mostly fenced, guarded by the BSF",
+          "tag": "settled boundary"
+         },
+         {
+          "label": "Line of Control",
+          "colon": false,
+          "html": "(about 740 km), a military line from Shimla, not an international border; guarded by the Army",
+          "tag": "de facto boundary"
+         },
+         {
+          "label": "AGPL, Siachen",
+          "colon": false,
+          "html": "(about 110 km) on the Saltoro Ridge north of NJ9842, held since Op Meghdoot (1984); demilitarisation talks failed in 1989, 1992 and 2006 because Pakistan would not authenticate positions",
+          "tag": "glacier stalemate"
+         },
+         {
+          "label": "Sir Creek",
+          "colon": false,
+          "html": "(96 km tidal estuary, Rann of Kutch): India claims the mid-channel line, Pakistan the eastern bank (1914 resolution); settles the maritime boundary and EEZs; the 1968 Kutch Tribunal settled only the land boundary",
+          "tag": "thalweg principle"
+         },
+         {
+          "label": "CPEC",
+          "colon": false,
+          "html": "runs from Khunjerab through Gilgit-Baltistan to Gwadar near Hormuz; India calls it a violation of sovereignty",
+          "tag": "counter-encirclement"
+         },
+         {
+          "label": "Rivers",
+          "colon": true,
+          "html": "the Western rivers cross Indian territory first, giving India upstream leverage",
+          "tag": "upper riparian"
+         },
+         {
+          "label": "Crossings",
+          "colon": true,
+          "html": "Attari–Wagah and Kartarpur were the only crossings; both closed since 2025",
+          "tag": "connectivity freeze"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "figure",
+        "id": "fig03",
+        "title": "India and Pakistan: flashpoints, corridors and the Indus basin",
+        "caption": "India is shown as per the Survey of India. The Line of Control and the AGPL are not drawn; India's position is that the entire Union Territories of Jammu and Kashmir and Ladakh are integral parts of India. CPEC is shown schematically through Pakistan-occupied Kashmir.",
+        "map": true
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s6",
+   "num": 6,
+   "title": "Issue 1: Cross-Border Terrorism and Operation Sindoor",
+   "blocks": [
+    {
+     "type": "h3",
+     "id": null,
+     "text": "6.1 Background and Causes"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Proxy war since 1989",
+       "colon": true,
+       "html": "Pakistan’s army has used militant groups against India since the J&amp;K insurgency",
+       "tag": "proxy war"
+      },
+      {
+       "label": "Major attacks",
+       "colon": true,
+       "html": "Parliament (2001), 26/11 Mumbai (2008, 166 killed), Pathankot and Uri (2016, 19 soldiers), Pulwama (2019, 40 CRPF), Pahalgam (2025, 26 killed)",
+       "tag": "escalating pattern"
+      },
+      {
+       "label": "Army dominance",
+       "colon": true,
+       "html": "the army sets India policy and profits from confrontation",
+       "tag": "Military Inc. — Ayesha Siddiqa"
+      },
+      {
+       "label": "Ideology and identity",
+       "colon": true,
+       "html": "Kashmir framed as the “unfinished business of Partition”",
+       "tag": "ideology and identity"
+      },
+      {
+       "label": "Nuclear shield",
+       "colon": true,
+       "html": "proxy war is cheap below the nuclear threshold",
+       "tag": "stability–instability paradox — Glenn Snyder"
+      },
+      {
+       "label": "External cover",
+       "colon": true,
+       "html": "Chinese protection at the UN and periodic US and Gulf engagement lower the cost to Pakistan",
+       "tag": "external cover"
+      }
+     ]
+    },
+    {
+     "type": "case",
+     "label": "CASE STUDY",
+     "html": "<b>Pahalgam to Operation Sindoor, 2025.</b> <b>22 April:</b> 25 tourists and a local pony operator killed at Baisaran after victims were asked their religion. <b>23 April:</b> Cabinet Committee on Security held the IWT in abeyance, closed Attari, cancelled SAARC visas, expelled defence attachés. <b>24 April:</b> Pakistan closed its airspace, suspended trade, threatened to hold Shimla in abeyance. <b>7 May:</b> India struck nine terror sites including Bahawalpur (JeM) and Muridke (LeT), calling the action “focused, measured and non-escalatory” (<a href=\"https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/may/doc2025514554501.pdf\">PIB</a>). <b>7–10 May:</b> Pakistani drones and shelling, especially on Poonch, mostly intercepted (Akash, S-400); India hit 11 air bases including Nur Khan. <b>10 May:</b> DGMO call; firing stopped at 17:00 IST."
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "6.2 Impact on India"
+    },
+    {
+     "type": "columns",
+     "cols": [
+      [
+       {
+        "type": "list",
+        "ordered": true,
+        "items": [
+         {
+          "label": "Security",
+          "colon": true,
+          "html": "soft targets (tourists, pilgrims) and religious targeting aimed at communal tension",
+          "tag": "hybrid warfare"
+         },
+         {
+          "label": "Escalation risk",
+          "colon": true,
+          "html": "each crisis since 2016 climbed higher; drones and missiles compress decision time",
+          "tag": "escalation ladder"
+         },
+         {
+          "label": "Nuclear shadow",
+          "colon": true,
+          "html": "Pakistan’s first-use posture and tactical weapons (Nasr) raise the stakes",
+          "tag": "asymmetric escalation"
+         },
+         {
+          "label": "Economy",
+          "colon": true,
+          "html": "J&amp;K tourism hit; airspace closures raise airline costs; trade near zero",
+          "tag": "security–economy trade-off"
+         },
+         {
+          "label": "Diplomacy",
+          "colon": true,
+          "html": "dialogue and SAARC frozen; regional integration blocked",
+          "tag": "regional security complex"
+         },
+         {
+          "label": "Re-hyphenation",
+          "colon": true,
+          "html": "outside powers seek a mediating role and pair India with Pakistan again",
+          "tag": "re-hyphenation"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "figure",
+        "id": "fig04",
+        "title": "The escalation ladder: India's responses to major terror attacks, 2001 to 2025",
+        "caption": "From 2016 each response moved higher up the ladder and became more open. India’s position after May 2025: a major terror attack will be met with a military response on India’s terms, with no tolerance for nuclear blackmail.",
+        "map": false
+       }
+      ]
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "6.3 India’s Response"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Military",
+       "colon": true,
+       "html": "Op Sindoor (7–10 May 2025) and Op Mahadev (28 July 2025), which killed the three Pahalgam attackers",
+       "tag": "compellence — Thomas Schelling"
+      },
+      {
+       "label": "Doctrine",
+       "colon": true,
+       "html": "12 May 2025: response on India’s terms, no nuclear blackmail, no distinction between terrorists and sponsors",
+       "tag": "deterrence by punishment"
+      },
+      {
+       "label": "Water and trade",
+       "colon": true,
+       "html": "IWT abeyance; Attari closed; import ban (2 May 2025); visas cancelled",
+       "tag": "economic statecraft"
+      },
+      {
+       "label": "Diplomatic outreach",
+       "colon": true,
+       "html": "seven all-party delegations to 33 capitals; IMF abstention (9 May 2025)",
+       "tag": "narrative diplomacy"
+      },
+      {
+       "label": "Multilateral",
+       "colon": true,
+       "html": "UNSC press statement on Pahalgam (25 April 2025); US designation of TRF (17 July 2025); SCO Tianjin Declaration (September 2025)",
+       "tag": "norm building"
+      },
+      {
+       "label": "Denial measures",
+       "colon": true,
+       "html": "air defence (Akash, S-400), border fencing and counter-drone systems",
+       "tag": "deterrence by denial"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "6.4 Debates"
+    },
+    {
+     "type": "table",
+     "variant": "",
+     "head": [
+      "Debate",
+      "View A",
+      "View B"
+     ],
+     "rows": [
+      [
+       "Punishment vs restraint",
+       "Restraint after 26/11 did not stop later attacks.",
+       "Strikes shrink space below the nuclear threshold."
+      ],
+      [
+       "Talks vs isolation",
+       "“Terror and talks cannot go together” (MEA).",
+       "Back channels built quiet in 2003–08 and 2021–25."
+      ],
+      [
+       "Nuclear risk",
+       "Nuclear weapons stabilise (Kenneth Waltz).",
+       "Accidents and miscalculation (Scott Sagan)."
+      ],
+      [
+       "Military vs non-military levers",
+       "Strikes restore credibility.",
+       "Water, trade and IMF votes impose costs without escalation."
+      ],
+      [
+       "Bilateralism vs mediation",
+       "Shimla bars third parties.",
+       "US claims of brokering ceasefires test the principle."
+      ],
+      [
+       "Impact on Pakistan’s politics",
+       "Costs weaken the army’s case.",
+       "Confrontation strengthens the army at home (rally effect)."
+      ]
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "6.5 Critical Assessment"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Red lines redrawn",
+       "colon": true,
+       "html": "strikes reached Punjab province, not just PoK",
+       "tag": "credibility"
+      },
+      {
+       "label": "Nuclear bluff called",
+       "colon": true,
+       "html": "conventional strikes did not trigger nuclear use",
+       "tag": "threshold management"
+      },
+      {
+       "label": "Global condemnation",
+       "colon": false,
+       "html": "of Pahalgam at the UNSC and SCO",
+       "tag": "legitimacy"
+      },
+      {
+       "label": "Regeneration",
+       "colon": true,
+       "html": "LeT and JeM reappear under new names",
+       "tag": "hydra effect"
+      },
+      {
+       "label": "Army stronger at home",
+       "colon": true,
+       "html": "Asim Munir became Field Marshal (May 2025) and Chief of Defence Forces under the 27th Amendment (November 2025)",
+       "tag": "rally-round-the-flag"
+      },
+      {
+       "label": "Collusion",
+       "colon": true,
+       "html": "China gave weapons and live inputs; the US re-engaged Pakistan",
+       "tag": "two-front threat"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "6.6 Way Forward"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "",
+       "colon": false,
+       "html": "Credible deterrence plus a stronger DGMO hotline and nuclear CBMs",
+       "tag": "crisis stability"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Deterrence by denial: smart fencing (CIBMS), counter-drone systems, human intelligence",
+       "tag": "denial"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Dialogue only on verifiable action against LeT and JeM, through FATF and UN 1267",
+       "tag": "conditional engagement"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Push the Comprehensive Convention on International Terrorism (India’s proposal, 1996)",
+       "tag": "norm entrepreneurship"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Protect soft targets through local intelligence and community policing in J&amp;K",
+       "tag": "resilience"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Keep partners informed so that India is not re-hyphenated with Pakistan",
+       "tag": "strategic communication"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s7",
+   "num": 7,
+   "title": "Issue 2: The Indus Waters Treaty in Abeyance",
+   "blocks": [
+    {
+     "type": "h3",
+     "id": null,
+     "text": "7.1 Background and Causes"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Treaty (19 September 1960)",
+       "colon": true,
+       "html": "signed in Karachi; World Bank a signatory",
+       "tag": "third-party facilitation"
+      },
+      {
+       "label": "Allocation",
+       "colon": true,
+       "html": "Eastern rivers (Ravi, Beas, Sutlej; about 33 MAF) to India; Western rivers (Indus, Jhelum, Chenab; about 135 MAF) to Pakistan, with Indian run-of-the-river hydropower and 3.6 MAF storage",
+       "tag": "partition of rivers"
+      },
+      {
+       "label": "Dispute ladder",
+       "colon": true,
+       "html": "Permanent Indus Commission, Neutral Expert (“differences”), Court of Arbitration (“disputes”)",
+       "tag": "graded dispute resolution"
+      },
+      {
+       "label": "Design disputes",
+       "colon": true,
+       "html": "Kishenganga (330 MW; 2013 award allowed diversion with minimum flow) and Ratle (850 MW); parallel processes started by the World Bank in 2022; Neutral Expert held himself competent (January 2025)",
+       "tag": "forum shopping"
+      },
+      {
+       "label": "Changed circumstances",
+       "colon": true,
+       "html": "Indian notices under Article XII(3) (January 2023, September 2024): population, clean energy, climate, terrorism",
+       "tag": "rebus sic stantibus"
+      },
+      {
+       "label": "Trigger",
+       "colon": true,
+       "html": "abeyance on 23 April 2025 “until Pakistan credibly and irrevocably abjures” terrorism",
+       "tag": "“blood and water cannot flow together”"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "7.2 Impact"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "On Pakistan",
+       "colon": true,
+       "html": "most irrigated farming depends on the Indus; Pakistan called diversion “an act of war” (24 April 2025)",
+       "tag": "water security"
+      },
+      {
+       "label": "Short-term flows",
+       "colon": true,
+       "html": "little change, since India has little storage",
+       "tag": "capacity constraint"
+      },
+      {
+       "label": "Operational freedom",
+       "colon": true,
+       "html": "flushing of Salal and Baglihar; no advance notice; data sharing stopped",
+       "tag": "hydro-hegemony"
+      },
+      {
+       "label": "J&K development",
+       "colon": true,
+       "html": "faster hydropower and irrigation projects",
+       "tag": "development dividend"
+      },
+      {
+       "label": "Legal cost",
+       "colon": true,
+       "html": "Court of Arbitration ruled on 31 August 2026 that India cannot unilaterally suspend the treaty (<a href=\"https://docs.pca-cpa.org/2026/08/3c1dbc21-2023-01-20260831-pca-press-release.pdf\">PCA</a>)",
+       "tag": "pacta sunt servanda"
+      },
+      {
+       "label": "Precedent",
+       "colon": true,
+       "html": "India is a lower riparian on the Brahmaputra, where China began a large dam in July 2025",
+       "tag": "upstream precedent — Brahma Chellaney"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "7.3 India’s Response"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Abeyance maintained",
+       "colon": true,
+       "html": "reaffirmed on Op Sindoor’s anniversary (May 2026) (<a href=\"https://www.mea.gov.in/\">MEA</a>)",
+       "tag": "linkage politics"
+      },
+      {
+       "label": "Court rejected",
+       "colon": true,
+       "html": "supplemental award (June 2025) and award (August 2026) called the work of an “illegally constituted” body",
+       "tag": "non-recognition"
+      },
+      {
+       "label": "Projects fast-tracked",
+       "colon": true,
+       "html": "Pakal Dul (1,000 MW), Kiru (624 MW), Kwar (540 MW), Ratle (850 MW), Sawalkot (1,856 MW)",
+       "tag": "capacity building"
+      },
+      {
+       "label": "Reservoir flushing",
+       "colon": true,
+       "html": "Salal and Baglihar flushed without notice in 2025",
+       "tag": "operational sovereignty"
+      },
+      {
+       "label": "Modification route",
+       "colon": true,
+       "html": "Article XII(3) notices remain India’s legal basis for a revised treaty",
+       "tag": "treaty revision"
+      },
+      {
+       "label": "Humanitarian exception",
+       "colon": true,
+       "html": "Tawi flood alerts passed through diplomatic channels (August 2025)",
+       "tag": "humanitarian principle"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "7.4 Debates"
+    },
+    {
+     "type": "columns",
+     "cols": [
+      [
+       {
+        "type": "list",
+        "ordered": true,
+        "items": [
+         {
+          "label": "Treaty law",
+          "colon": true,
+          "html": "no exit clause; obligations bind",
+          "tag": "pacta sunt servanda, VCLT Art. 26"
+         },
+         {
+          "label": "Changed circumstances",
+          "colon": true,
+          "html": "suspension allowed for a fundamental change",
+          "tag": "rebus sic stantibus, VCLT Art. 62"
+         },
+         {
+          "label": "Good faith",
+          "colon": true,
+          "html": "a terror sponsor cannot claim treaty goodwill",
+          "tag": "reciprocity"
+         },
+         {
+          "label": "Sovereignty vs sharing",
+          "colon": true,
+          "html": "absolute upstream rights vs equitable use",
+          "tag": "Harmon doctrine vs Helsinki Rules, 1966"
+         },
+         {
+          "label": "Renegotiate or exit",
+          "colon": true,
+          "html": "“IWT 2.0” with climate data and a single dispute track vs lasting leverage",
+          "tag": "treaty modernisation"
+         },
+         {
+          "label": "Fairness of 1960",
+          "colon": true,
+          "html": "India gave about 80% of the waters for peace; others argue the treaty was balanced",
+          "tag": "equity of 1960"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "figure",
+        "id": "fig05",
+        "title": "The abeyance debate: arguments on each side",
+        "caption": "India’s case rests on good faith and changed circumstances; the counter-case rests on treaty law, the limits of India’s storage and the precedent for upstream China.",
+        "map": false
+       }
+      ]
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "7.5 Critical Assessment"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Leverage is long-term",
+       "colon": true,
+       "html": "storage and canals take years",
+       "tag": "capacity gap"
+      },
+      {
+       "label": "Legal isolation risk",
+       "colon": false,
+       "html": "if India refuses all forums",
+       "tag": "lawfare"
+      },
+      {
+       "label": "Real J&K gains",
+       "colon": true,
+       "html": "power and irrigation",
+       "tag": "development dividend"
+      },
+      {
+       "label": "Humanitarian risk",
+       "colon": false,
+       "html": "from stopping flood data; the August 2025 alerts show the limit",
+       "tag": "humanitarian norms"
+      },
+      {
+       "label": "Brahmaputra precedent",
+       "colon": false,
+       "html": "could weaken India as a lower riparian",
+       "tag": "consistency"
+      },
+      {
+       "label": "Pakistan’s narrative",
+       "colon": false,
+       "html": "of “water war” gains outside sympathy",
+       "tag": "narrative contest"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "7.6 Way Forward"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "",
+       "colon": false,
+       "html": "Build storage and run-of-the-river capacity within technical limits",
+       "tag": "credible leverage"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Seek a modernised treaty under Article XII(3): climate and glacier data, one dispute track",
+       "tag": "IWT 2.0"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Argue India’s case in international forums, not only reject them",
+       "tag": "legal diplomacy"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Keep flood warnings outside the dispute",
+       "tag": "humanitarian carve-out"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Use the gains for J&amp;K farmers and power users",
+       "tag": "domestic legitimacy"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Align Indus and Brahmaputra positions",
+       "tag": "basin consistency"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s8",
+   "num": 8,
+   "title": "Issue 3: Jammu and Kashmir after Article 370",
+   "blocks": [
+    {
+     "type": "h3",
+     "id": null,
+     "text": "8.1 Background and Causes"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "2019 changes",
+       "colon": true,
+       "html": "on 5 August 2019 the whole Constitution was applied to J&amp;K, ending Article 370 and 35A status",
+       "tag": "constitutional integration"
+      },
+      {
+       "label": "Reorganisation",
+       "colon": true,
+       "html": "two Union Territories (J&amp;K, Ladakh) from 31 October 2019",
+       "tag": "administrative restructuring"
+      },
+      {
+       "label": "Supreme Court (11 December 2023)",
+       "colon": true,
+       "html": "upheld the changes; elections by 30 September 2024; statehood “as soon as possible”",
+       "tag": "judicial legitimacy"
+      },
+      {
+       "label": "Elections (September–October 2024)",
+       "colon": true,
+       "html": "an elected government took office",
+       "tag": "democratic normalisation"
+      },
+      {
+       "label": "India’s PoK claim",
+       "colon": true,
+       "html": "Parliament resolution of 22 February 1994; Pakistan ceded Shaksgam to China (1963)",
+       "tag": "territorial integrity"
+      },
+      {
+       "label": "Pakistan’s reaction",
+       "colon": true,
+       "html": "downgraded ties, suspended trade, raised Kashmir at the UN and OIC",
+       "tag": "internationalisation"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "8.2 Impact"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "UN",
+       "colon": true,
+       "html": "closed-door UNSC consultation (August 2019) at China’s request, no outcome",
+       "tag": "diplomatic shield"
+      },
+      {
+       "label": "OIC statements",
+       "colon": false,
+       "html": "continue; India rejects them",
+       "tag": "Islamic bloc politics"
+      },
+      {
+       "label": "Mediation offers",
+       "colon": false,
+       "html": "by US Presidents (2019, 2025) rejected by India",
+       "tag": "bilateralism"
+      },
+      {
+       "label": "China as a third party",
+       "colon": true,
+       "html": "Aksai Chin, Shaksgam, joint statements with Pakistan",
+       "tag": "trilateral dispute"
+      },
+      {
+       "label": "Justification for proxy war",
+       "colon": true,
+       "html": "terror framed as a “freedom struggle”",
+       "tag": "narrative warfare"
+      },
+      {
+       "label": "PoK unrest",
+       "colon": true,
+       "html": "protests over power and flour prices and representation (2024–26)",
+       "tag": "governance contrast"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "8.3 India’s Response"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Internal matter",
+       "colon": true,
+       "html": "only PoK remains to be discussed with Pakistan",
+       "tag": "sovereignty"
+      },
+      {
+       "label": "No mediation",
+       "colon": false,
+       "html": "under Shimla",
+       "tag": "bilateralism"
+      },
+      {
+       "label": "Rejects OIC statements and CPEC",
+       "colon": false,
+       "html": "through Gilgit-Baltistan",
+       "tag": "territorial integrity"
+      },
+      {
+       "label": "Elections and local bodies",
+       "colon": false,
+       "html": "to show normalcy",
+       "tag": "democratic legitimacy"
+      },
+      {
+       "label": "Development spending",
+       "colon": false,
+       "html": "and investment drives",
+       "tag": "development as security"
+      },
+      {
+       "label": "Counter-infiltration",
+       "colon": false,
+       "html": "on the LoC and in the hinterland",
+       "tag": "security grid"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "8.4 Debates"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Integration vs autonomy",
+       "colon": true,
+       "html": "uniform laws vs identity concerns",
+       "tag": "asymmetric federalism"
+      },
+      {
+       "label": "Statehood timing",
+       "colon": true,
+       "html": "now, to empower the elected government, or after security",
+       "tag": "federal trust"
+      },
+      {
+       "label": "Dual control",
+       "colon": true,
+       "html": "elected government vs Lieutenant Governor",
+       "tag": "UT governance"
+      },
+      {
+       "label": "Talks on Kashmir",
+       "colon": true,
+       "html": "India’s PoK-only view vs Pakistan’s plebiscite demand",
+       "tag": "UN resolutions vs Shimla"
+      },
+      {
+       "label": "Security-first vs political outreach",
+       "colon": false,
+       "html": "",
+       "tag": "hearts and minds"
+      },
+      {
+       "label": "PoK rhetoric vs realism",
+       "colon": true,
+       "html": "claim vs feasibility",
+       "tag": "irredentism"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "8.5 Critical Assessment"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Violence lower",
+       "colon": false,
+       "html": "than in 2018, per official data",
+       "tag": "security gains"
+      },
+      {
+       "label": "High turnout",
+       "colon": false,
+       "html": "in 2024 weakens Pakistan’s narrative",
+       "tag": "democratic legitimacy"
+      },
+      {
+       "label": "Soft targets exposed",
+       "colon": false,
+       "html": "by Pahalgam",
+       "tag": "vulnerability"
+      },
+      {
+       "label": "Statehood delay",
+       "colon": false,
+       "html": "creates friction",
+       "tag": "federal deficit"
+      },
+      {
+       "label": "UNSC agenda kept clear",
+       "colon": false,
+       "html": "of Kashmir",
+       "tag": "diplomatic success"
+      },
+      {
+       "label": "Mediation offers",
+       "colon": false,
+       "html": "keep testing bilateralism",
+       "tag": "external pressure"
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "8.6 Way Forward"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "",
+       "colon": false,
+       "html": "Restore statehood; empower the elected government and local bodies",
+       "tag": "cooperative federalism"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Jobs and investment for young people",
+       "tag": "development as security"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Counter radicalisation through education and outreach",
+       "tag": "de-radicalisation"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Strong intelligence along the LoC and in the hinterland",
+       "tag": "denial"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Expose governance failures in PoK and Gilgit-Baltistan",
+       "tag": "narrative diplomacy"
+      },
+      {
+       "label": "",
+       "colon": false,
+       "html": "Keep Shimla bilateralism; reject mediation",
+       "tag": "strategic autonomy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s9",
+   "num": 9,
+   "title": "Role of Other Powers: China, the US, the Gulf and Afghanistan",
+   "blocks": [
+    {
+     "type": "columns",
+     "cols": [
+      [
+       {
+        "type": "list",
+        "ordered": true,
+        "items": [
+         {
+          "label": "China",
+          "colon": true,
+          "html": "main arms supplier (J-10C, PL-15, Hangor submarines), CPEC (announced at US$ 62 bn), UN “technical holds”; weapons and live inputs used in May 2025",
+          "tag": "all-weather partnership; two-front threat"
+         },
+         {
+          "label": "China’s balance",
+          "colon": true,
+          "html": "revived “CPEC 2.0” (2025) yet signed the SCO Tianjin Declaration condemning Pahalgam",
+          "tag": "strategic hedging"
+         },
+         {
+          "label": "United States",
+          "colon": true,
+          "html": "claimed credit for the 10 May ceasefire (India denies), hosted Pakistan’s army chief twice in 2025, oil and minerals deals, tariff cut to 19%",
+          "tag": "re-hyphenation; transactionalism"
+         },
+         {
+          "label": "Saudi Arabia and Türkiye",
+          "colon": true,
+          "html": "Saudi–Pakistan defence pact (17 September 2025); Makkah Joint Defence Agreement with Türkiye (7 August 2026): an attack on one is an attack on all (<a href=\"https://mofa.gov.pk/press-releases/message-to-the-nation-on-the-signing-of-the-makkah-joint-defence-agreement\">MoFA Pakistan</a>)",
+          "tag": "alliance formation"
+         },
+         {
+          "label": "Türkiye and Azerbaijan",
+          "colon": false,
+          "html": "backed Pakistan openly in May 2025",
+          "tag": "Islamic solidarity"
+         },
+         {
+          "label": "Afghanistan",
+          "colon": true,
+          "html": "Taliban hostile to Pakistan; India upgraded its Kabul mission to an embassy (October 2025)",
+          "tag": "Mandala — Kautilya"
+         },
+         {
+          "label": "Iran",
+          "colon": true,
+          "html": "Chabahar gives India a route around Pakistan",
+          "tag": "connectivity diplomacy"
+         },
+         {
+          "label": "Inside Pakistan",
+          "colon": true,
+          "html": "27th Amendment (November 2025) made the army chief Chief of Defence Forces",
+          "tag": "praetorian state"
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "type": "figure",
+        "id": "fig06",
+        "title": "India, Pakistan and the outside poles: China and the United States",
+        "caption": "China is Pakistan’s military and diplomatic patron, which creates India’s two-front problem; the 2025–26 US tilt to Pakistan limits India’s ability to isolate it. The Gulf and Afghanistan poles are in the table alongside.",
+        "map": false
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s10",
+   "num": 10,
+   "title": "Recent Developments and Way Forward",
+   "blocks": [
+    {
+     "type": "h3",
+     "id": null,
+     "text": "10.1 Recent Developments (2025–26)"
+    },
+    {
+     "type": "table",
+     "variant": "ca",
+     "head": [
+      "Date",
+      "Development",
+      "Link to this chapter"
+     ],
+     "rows": [
+      [
+       "22 Oct 2026",
+       "External Affairs Minister S. Jaishankar said India wants good relations with Pakistan but “will not overlook terrorism” to achieve them (<a href=\"https://www.mea.gov.in/\">MEA</a>).",
+       "Terror-first approach"
+      ],
+      [
+       "2–3 Oct 2026",
+       "The BSF fired on three intruders in the Ferozepur sector of Punjab, killing two. Pakistan summoned India’s chargé d’affaires; India rejected its account as “baseless”, summoned Pakistan’s chargé d’affaires and protested continued cross-border infiltration and narcotics smuggling (<a href=\"https://www.mea.gov.in/media-briefings.htm\">MEA</a>).",
+       "International Border, infiltration"
+      ],
+      [
+       "Sep 2026",
+       "The Indian destroyer INS Kolkata and the Pakistani naval vessel PNS Hunain collided in the Arabian Sea; the MEA held the Pakistani ship responsible (<a href=\"https://www.mea.gov.in/media-briefings.htm\">MEA briefing</a>).",
+       "Maritime frontier, CBMs"
+      ],
+      [
+       "31 Aug 2026",
+       "The Court of Arbitration ruled that India cannot unilaterally suspend the IWT; India rejected the “illegally constituted” court.",
+       "Indus Waters Treaty"
+      ],
+      [
+       "7 Aug 2026",
+       "Saudi Arabia, Türkiye and Pakistan signed the Makkah Joint Defence Agreement.",
+       "Pakistan’s alliances"
+      ],
+      [
+       "May 2026",
+       "On the first anniversary of Operation Sindoor, the MEA said the IWT would stay in abeyance until Pakistan ends cross-border terrorism.",
+       "Water and terror"
+      ],
+      [
+       "Feb 2026",
+       "After a suicide bombing at a mosque in Islamabad (6 February) claimed by the Islamic State’s Pakistan affiliate, Pakistani ministers blamed India; India rejected the allegation.",
+       "Narrative war"
+      ],
+      [
+       "2025–26",
+       "The Kartarpur Corridor stayed closed; India and Pakistan played each other only in multilateral tournaments.",
+       "Soft power"
+      ]
+     ]
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "10.2 Way Forward for India"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      {
+       "label": "Deterrence with stability",
+       "colon": true,
+       "html": "credible punishment for terror, with working hotlines and nuclear CBMs",
+       "tag": "crisis stability"
+      },
+      {
+       "label": "Conditional engagement",
+       "colon": true,
+       "html": "talks only on terror and PoK, tied to verifiable action against LeT and JeM",
+       "tag": "conditional engagement"
+      },
+      {
+       "label": "Water",
+       "colon": true,
+       "html": "build Western-river capacity, seek a modernised treaty, keep flood warnings",
+       "tag": "IWT 2.0"
+      },
+      {
+       "label": "People-to-people",
+       "colon": true,
+       "html": "reopen Kartarpur and medical visas when security allows",
+       "tag": "soft power — Joseph Nye"
+      },
+      {
+       "label": "External balancing",
+       "colon": true,
+       "html": "work with the Gulf, Iran, Afghanistan and the US to limit outside support to Pakistan",
+       "tag": "multi-alignment — S. Jaishankar,The India Way"
+      },
+      {
+       "label": "Inside J&K",
+       "colon": true,
+       "html": "statehood, jobs and protection of soft targets",
+       "tag": "development as security"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c01-s11",
+   "num": 11,
+   "title": "Model Answers",
+   "blocks": [
+    {
+     "type": "h3",
+     "id": "c01-s11-ma",
+     "text": "11.1 Terrorism and the Future of SAARC"
+    },
+    {
+     "type": "answer",
+     "tag": "UPSC MAINS 2016 · GS PAPER II · 12.5 MARKS · 200 WORDS",
+     "question": "\"Increasing cross-border terrorist attacks in India and growing interference in the internal affairs of several member-states by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation).\" Explain with suitable examples.",
+     "parts": [
+      {
+       "label": "INTRODUCTION",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "SAARC (1985) works by consensus and needs a minimum of trust among its eight members. Terror attacks traced to Pakistan have broken that trust: the 19th summit at Islamabad (2016) was cancelled after Uri, and no summit has been held since Kathmandu (2014)."
+        }
+       ]
+      },
+      {
+       "label": "BODY",
+       "blocks": [
+        {
+         "type": "list",
+         "ordered": true,
+         "items": [
+          {
+           "label": "Terror blocks summits",
+           "colon": true,
+           "html": "after Uri (September 2016), India, Bangladesh, Afghanistan, Bhutan and Sri Lanka withdrew from the Islamabad summit, which was then cancelled",
+           "tag": ""
+          },
+          {
+           "label": "Interference beyond India",
+           "colon": true,
+           "html": "Afghanistan accused Pakistan of sheltering the Taliban; Bangladesh objected to Pakistan’s statements on its 1971 war-crimes trials",
+           "tag": ""
+          },
+          {
+           "label": "Connectivity blocked",
+           "colon": true,
+           "html": "Pakistan refused to sign the SAARC Motor Vehicles Agreement (2014) and denies transit to Afghanistan, so India moved to BBIN and BIMSTEC",
+           "tag": ""
+          },
+          {
+           "label": "Trade stalled",
+           "colon": true,
+           "html": "SAFTA has not delivered; intra-regional trade remains about 5% of South Asia’s total trade",
+           "tag": ""
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "label": "WAY FORWARD",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "Pursue sub-regional and BIMSTEC cooperation; keep SAARC’s technical bodies (the SAARC Development Fund, the South Asian University) alive; tie any summit to action on terror."
+        }
+       ]
+      },
+      {
+       "label": "CONCLUSION",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "Regional integration needs a terror-free environment. Until Pakistan acts, South Asian cooperation will move through BIMSTEC and bilateral corridors rather than SAARC."
+        }
+       ]
+      }
+     ],
+     "words": "ABOUT 200 WORDS"
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "11.2 Soft Power in India–Pakistan Relations"
+    },
+    {
+     "type": "answer",
+     "tag": "UPSC MAINS 2015 · GS PAPER II · 12.5 MARKS · 200 WORDS",
+     "question": "Terrorist activities and mutual distrust have clouded India-Pakistan relations. To what extent the use of soft power like sports and cultural exchanges could help generate goodwill between the two countries? Discuss with suitable examples.",
+     "parts": [
+      {
+       "label": "INTRODUCTION",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "Soft power, in Joseph Nye’s sense, is the ability to attract rather than coerce. India and Pakistan share language, music, cuisine, cricket and sacred sites, but attacks from 26/11 to Pahalgam (2025) have repeatedly overwhelmed this shared capital."
+        }
+       ]
+      },
+      {
+       "label": "BODY",
+       "blocks": [
+        {
+         "type": "list",
+         "ordered": true,
+         "items": [
+          {
+           "label": "Cricket diplomacy",
+           "colon": true,
+           "html": "Zia-ul-Haq’s visit to Jaipur (1987) eased the Brasstacks crisis; the 2004 tour built support for the Composite Dialogue",
+           "tag": ""
+          },
+          {
+           "label": "Religious diplomacy",
+           "colon": true,
+           "html": "the Kartarpur Corridor (2019) gave visa-free access to Sikh pilgrims; the 1974 shrines protocol still runs",
+           "tag": ""
+          },
+          {
+           "label": "Culture and humanitarian gestures",
+           "colon": true,
+           "html": "films, music, Urdu poetry, medical visas and the release of fishermen soften public opinion",
+           "tag": ""
+          },
+          {
+           "label": "Limits",
+           "colon": true,
+           "html": "goodwill is the first casualty of terror. After Pahalgam, Kartarpur was closed and bilateral sport stopped; the teams meet only in multilateral events. Soft power cannot change the policy of a military establishment that uses proxies",
+           "tag": ""
+          }
+         ]
+        },
+        {
+         "type": "sketch",
+         "html": "<b>[SKETCH]</b> Two parallel tracks: people-to-people (cricket, Kartarpur, visas) and security (terror, LoC, IWT), with a “terror” arrow cutting across both."
+        }
+       ]
+      },
+      {
+       "label": "WAY FORWARD",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "Keep humanitarian and religious channels insulated from crises; support student and Track II exchanges; tie political normalisation to verifiable action on terror."
+        }
+       ]
+      },
+      {
+       "label": "CONCLUSION",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "Soft power can prepare the ground but cannot replace security guarantees. A terror-free environment is the precondition for goodwill to become peace."
+        }
+       ]
+      }
+     ],
+     "words": "ABOUT 200 WORDS"
+    },
+    {
+     "type": "h3",
+     "id": null,
+     "text": "11.3 Operation Sindoor and India’s New Pakistan Doctrine"
+    },
+    {
+     "type": "answer",
+     "tag": "PROBABLE QUESTION · 15 MARKS · 250 WORDS",
+     "question": "“Operation Sindoor marked a shift in India’s Pakistan policy from strategic restraint to deterrence by punishment.” Critically examine.",
+     "parts": [
+      {
+       "label": "INTRODUCTION",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "After the Pahalgam attack (22 April 2025, 26 killed), India struck nine terror sites in Pakistan and PoK on 7 May 2025 and then 11 air bases. The doctrine stated on 12 May promised a response on India’s terms, no acceptance of nuclear blackmail and no distinction between terrorists and their sponsors."
+        }
+       ]
+      },
+      {
+       "label": "BODY",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "<b>Evidence of the shift</b>"
+        },
+        {
+         "type": "list",
+         "ordered": false,
+         "items": [
+          {
+           "label": "From restraint to retaliation",
+           "colon": true,
+           "html": "no military response to 26/11 (2008); calibrated strikes in 2016 and 2019; open strikes on Pakistan’s heartland and air bases in 2025",
+           "tag": ""
+          },
+          {
+           "label": "Non-military levers",
+           "colon": true,
+           "html": "the IWT held in abeyance, a full import ban and IMF abstention",
+           "tag": ""
+          },
+          {
+           "label": "Escalation control",
+           "colon": true,
+           "html": "terror targets first, military targets only after Pakistani attacks; a DGMO-agreed ceasefire on 10 May",
+           "tag": ""
+          }
+         ]
+        },
+        {
+         "type": "sketch",
+         "html": "<b>[SKETCH]</b> Escalation ladder: Uri 2016 (rung 2), Pulwama 2019 (rung 3), Pahalgam 2025 (rung 4), with the nuclear threshold at the top."
+        },
+        {
+         "type": "p",
+         "lead": false,
+         "html": "<b>Limits</b>"
+        },
+        {
+         "type": "list",
+         "ordered": false,
+         "items": [
+          {
+           "label": "",
+           "colon": false,
+           "html": "Terror groups regenerate; Pakistan’s army gained at home; China supplied weapons and inputs",
+           "tag": ""
+          },
+          {
+           "label": "",
+           "colon": false,
+           "html": "Escalation time is compressed by drones and missiles; the US claimed a mediating role",
+           "tag": ""
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "label": "WAY FORWARD",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "Combine deterrence by punishment with deterrence by denial (fencing, counter-drone systems, intelligence); keep the hotline and nuclear CBMs; build a coalition against terror financing at FATF and the UN."
+        }
+       ]
+      },
+      {
+       "label": "CONCLUSION",
+       "blocks": [
+        {
+         "type": "p",
+         "lead": false,
+         "html": "Operation Sindoor redrew India’s red lines, but lasting deterrence needs credibility, crisis stability and diplomacy together, in line with India’s strategic autonomy."
+        }
+       ]
+      }
+     ],
+     "words": "ABOUT 250 WORDS"
+    },
+    {
+     "type": "revision",
+     "items": [
+      "Four wars (1947–48, 1965, 1971, 1999); the Shimla Agreement (1972) created the LoC and bilateralism.",
+      "Frontier: International Border, LoC (about 740 km), AGPL at Siachen (about 110 km), Sir Creek (96 km).",
+      "Pahalgam (22 April 2025, 26 killed): IWT in abeyance, Attari closed, visas and Kartarpur suspended.",
+      "Operation Sindoor (7–10 May 2025): 9 terror sites, then 11 air bases; DGMO ceasefire on 10 May 2025.",
+      "Doctrine of 12 May 2025: response on India’s terms, no nuclear blackmail, no distinction between terrorists and sponsors.",
+      "IWT: Eastern rivers to India, Western to Pakistan; Court of Arbitration (August 2026) rejected abeyance; India rejects the court.",
+      "Article 370 changes (5 August 2019) upheld by the Supreme Court (11 December 2023); elections held in 2024.",
+      "Trade: exports US$ 2.07 billion (2018-19) down to about US$ 0.12 billion in May–October 2025.",
+      "CBMs still working: nuclear installation lists (1 January), prisoner lists, DGMO hotline.",
+      "China supplies about 81% of Pakistan’s arms imports; Saudi–Pakistan pact (2025) and Makkah Joint Defence Agreement (2026)."
+     ]
+    },
+    {
+     "type": "keywords",
+     "html": "deterrence by punishment · calibrated escalation · stability–instability paradox · Shimla bilateralism · hydro-diplomacy · thalweg · two-front threat · nuclear blackmail."
+    }
+   ]
+  }
+ ],
+ "pyq": {
+  "type": "pyq",
+  "title": "PREVIOUS YEAR QUESTIONS (2013–2026) · THIS CHAPTER",
+  "rows": [
+   {
+    "year": "2016",
+    "question": "\"Increasing cross-border terrorist attacks in India and growing interference in the internal affairs of several member-states by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation).\" Explain with suitable examples.",
+    "see": [
+     {
+      "href": "#c01-s11-ma",
+      "text": "Model answer"
+     },
+     {
+      "href": "#c01-s6",
+      "text": "§6"
+     },
+     {
+      "href": "#c01-s9",
+      "text": "§9"
+     }
+    ]
+   },
+   {
+    "year": "2015",
+    "question": "Terrorist activities and mutual distrust have clouded India-Pakistan relations. To what extent the use of soft power like sports and cultural exchanges could help generate goodwill between the two countries? Discuss with suitable examples.",
+    "see": [
+     {
+      "href": "#c01-s11-ma",
+      "text": "Model answer"
+     },
+     {
+      "href": "#c01-s3",
+      "text": "§3"
+     },
+     {
+      "href": "#c01-s10",
+      "text": "§10"
+     }
+    ]
+   },
+   {
+    "year": "2026 (related)",
+    "question": "\"China's Belt and Road Initiative (BRI) has transformed South Asia from a regional space into a theatre of great power competition.\" Analyse the strategic implications of the BRI for India's security and regional influence in South Asia.",
+    "see": [
+     {
+      "href": "#c01-s9",
+      "text": "§9"
+     }
+    ]
+   },
+   {
+    "year": "2013 (related)",
+    "question": "What do you understand by 'The String of Pearls'? How does it impact India? Briefly outline the steps taken by India to counter this.",
+    "see": [
+     {
+      "href": "#c01-s9",
+      "text": "§9"
+     }
+    ]
+   }
+  ]
+ }
+}
