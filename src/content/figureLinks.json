@@ -1,0 +1,633 @@
+{
+ "fig01": {
+  "viewBox": "0 0 520 154.48",
+  "hint": "Hover over or tap a phase or an event to highlight the matching point below.",
+  "links": {
+   "tl1": {
+    "title": "1947–1971: wars and treaties",
+    "note": "J&K war (1947–48), IWT (1960), Tashkent (1966), the 1971 war and Bangladesh."
+   },
+   "tl2": {
+    "title": "1972: Shimla Agreement",
+    "note": "Ceasefire line converted into the LoC; bilateralism written in."
+   },
+   "tl3": {
+    "title": "1972–1998: proxy war",
+    "note": "Siachen (1984), insurgency from 1989, nuclear tests (1998)."
+   },
+   "tl4": {
+    "title": "1999–2008: peace process with shocks",
+    "note": "Lahore and Kargil (1999), LoC ceasefire (2003), Composite Dialogue."
+   },
+   "tl5": {
+    "title": "2008–2019: stop–start",
+    "note": "26/11 (2008), Uri and surgical strikes (2016), Pulwama, Balakot and Article 370 (2019)."
+   },
+   "tl6": {
+    "title": "2019–2025: cold peace",
+    "note": "DGMO ceasefire recommitment (February 2021); Kartarpur; no political dialogue."
+   },
+   "tl7": {
+    "title": "2025 onwards: new normal",
+    "note": "Pahalgam, IWT abeyance, Operation Sindoor and the 10 May ceasefire."
+   }
+  },
+  "spots": [
+   {
+    "link": "tl1",
+    "rects": [
+     [
+      11.7,
+      41.4,
+      78.7,
+      21.3
+     ],
+     [
+      33.6,
+      106,
+      70.2,
+      21.2
+     ],
+     [
+      68.1,
+      16.9,
+      70.3,
+      21.2
+     ],
+     [
+      108.1,
+      41.4,
+      60.0,
+      21.3
+     ],
+     [
+      32.7,
+      71.4,
+      106.5,
+      24
+     ]
+    ]
+   },
+   {
+    "link": "tl2",
+    "rects": [
+     [
+      132.2,
+      106,
+      82.2,
+      21.2
+     ]
+    ]
+   },
+   {
+    "link": "tl3",
+    "rects": [
+     [
+      168.1,
+      16.9,
+      79.4,
+      21.2
+     ],
+     [
+      219.2,
+      41.4,
+      47.0,
+      21.3
+     ],
+     [
+      172,
+      71.4,
+      71.6,
+      24
+     ]
+    ]
+   },
+   {
+    "link": "tl4",
+    "rects": [
+     [
+      252.7,
+      106,
+      49.8,
+      21.2
+     ],
+     [
+      287.6,
+      16.9,
+      49.1,
+      21.2
+     ],
+     [
+      276.4,
+      71.4,
+      71.6,
+      24
+     ]
+    ]
+   },
+   {
+    "link": "tl5",
+    "rects": [
+     [
+      321.4,
+      41.4,
+      51.6,
+      21.3
+     ],
+     [
+      348.8,
+      106,
+      66.4,
+      21.2
+     ],
+     [
+      377.8,
+      7.6,
+      77.9,
+      30.5
+     ],
+     [
+      350.4,
+      71.4,
+      67.3,
+      24
+     ]
+    ]
+   },
+   {
+    "link": "tl6",
+    "rects": [
+     [
+      412.7,
+      41.4,
+      77.5,
+      21.3
+     ],
+     [
+      433.1,
+      71.4,
+      62.9,
+      24
+     ]
+    ]
+   },
+   {
+    "link": "tl7",
+    "rects": [
+     [
+      429.9,
+      106,
+      78.6,
+      21.2
+     ]
+    ]
+   }
+  ]
+ },
+ "fig02": {
+  "viewBox": "0 0 340 204.8",
+  "hint": "Hover over or tap the bars to highlight the matching point.",
+  "links": {
+   "trade": {
+    "title": "Exports to Pakistan",
+    "note": "US$ 2.07 bn in 2018-19, falling after MFN withdrawal (2019); about US$ 0.12 bn in May–October 2025, mostly medicines."
+   },
+   "importban": {
+    "title": "Import ban, 2 May 2025",
+    "note": "All direct and indirect imports from Pakistan banned after Pahalgam; the 2025-26 bar covers May–October only."
+   }
+  },
+  "spots": [
+   {
+    "link": "trade",
+    "rects": [
+     [
+      28.6,
+      49.8,
+      28.7,
+      128.2
+     ],
+     [
+      67.2,
+      124.8,
+      28.7,
+      53.2
+     ],
+     [
+      105.7,
+      154.2,
+      28.7,
+      23.8
+     ],
+     [
+      144.2,
+      143.4,
+      28.7,
+      34.6
+     ],
+     [
+      182.8,
+      136.2,
+      28.7,
+      41.8
+     ],
+     [
+      221.3,
+      103.2,
+      28.7,
+      74.8
+     ],
+     [
+      259.9,
+      144,
+      28.7,
+      34
+     ]
+    ]
+   },
+   {
+    "link": "importban",
+    "rects": [
+     [
+      298.4,
+      166.8,
+      28.7,
+      11.2
+     ]
+    ]
+   }
+  ]
+ },
+ "fig04": {
+  "viewBox": "0 0 340 450.88000000000005",
+  "hint": "Hover over or tap a crisis column to highlight the matching points.",
+  "links": {
+   "ladder": {
+    "title": "Escalation after major attacks",
+    "note": "Uri 2016: surgical strikes (rung 3). Pulwama 2019: Balakot (rung 4). Pahalgam 2025: terror camps, then 11 air bases (rung 5); each crisis climbed higher."
+   }
+  },
+  "spots": [
+   {
+    "link": "ladder",
+    "rects": [
+     [
+      136.1,
+      8,
+      62,
+      375
+     ],
+     [
+      202.1,
+      8,
+      62,
+      375
+     ],
+     [
+      268.1,
+      8,
+      62,
+      375
+     ]
+    ]
+   }
+  ]
+ },
+ "fig05": {
+  "viewBox": "0 0 340 222.08",
+  "hint": "Hover over or tap an argument to highlight the matching point.",
+  "links": {
+   "goodwill": {
+    "title": "Terror destroys treaty goodwill",
+    "note": "A state sponsoring terror cannot claim the benefits of a treaty built on good faith."
+   },
+   "changed": {
+    "title": "Changed circumstances",
+    "note": "Article XII(3) notices (2023, 2024); suspension for a fundamental change (VCLT Art. 62)."
+   },
+   "projects": {
+    "title": "Faster projects for J&K",
+    "note": "Pakal Dul, Kiru, Kwar, Ratle and Sawalkot fast-tracked: power and irrigation gains."
+   },
+   "leverage": {
+    "title": "Leverage against a terror sponsor",
+    "note": "Abeyance as lasting leverage vs an \"IWT 2.0\" with climate data and one dispute track."
+   },
+   "noexit": {
+    "title": "No exit clause",
+    "note": "The treaty has no exit clause; obligations bind (pacta sunt servanda, VCLT Art. 26)."
+   },
+   "coa": {
+    "title": "Court of Arbitration award",
+    "note": "31 August 2026: no unilateral suspension; India rejects the court, but risks legal isolation."
+   },
+   "storage": {
+    "title": "Little storage",
+    "note": "India has little storage on the Western rivers, so short-term leverage is small."
+   },
+   "precedent": {
+    "title": "Brahmaputra precedent",
+    "note": "India is a lower riparian on the Brahmaputra, where China began a large dam in July 2025."
+   }
+  },
+  "spots": [
+   {
+    "link": "goodwill",
+    "rects": [
+     [
+      23,
+      94.5,
+      102.4,
+      11.8
+     ]
+    ]
+   },
+   {
+    "link": "changed",
+    "rects": [
+     [
+      23,
+      106.6,
+      109.9,
+      21.4
+     ]
+    ]
+   },
+   {
+    "link": "projects",
+    "rects": [
+     [
+      23,
+      128.2,
+      79.4,
+      11.8
+     ]
+    ]
+   },
+   {
+    "link": "leverage",
+    "rects": [
+     [
+      23,
+      140.3,
+      113.9,
+      11.8
+     ]
+    ]
+   },
+   {
+    "link": "noexit",
+    "rects": [
+     [
+      191,
+      94.5,
+      89.8,
+      11.8
+     ]
+    ]
+   },
+   {
+    "link": "coa",
+    "rects": [
+     [
+      191,
+      106.6,
+      126.5,
+      11.8
+     ]
+    ]
+   },
+   {
+    "link": "storage",
+    "rects": [
+     [
+      191,
+      118.7,
+      102.2,
+      20.7
+     ]
+    ]
+   },
+   {
+    "link": "precedent",
+    "rects": [
+     [
+      191,
+      140.3,
+      136.1,
+      11.8
+     ]
+    ]
+   }
+  ]
+ },
+ "fig06": {
+  "viewBox": "0 0 340 327.0538238691624",
+  "hint": "Hover over or tap a country to highlight the matching points.",
+  "links": {
+   "india": {
+    "title": "India",
+    "note": "Builds a route around Pakistan through Afghanistan (Kabul embassy, October 2025) and Iran (Chabahar)."
+   },
+   "china": {
+    "title": "China",
+    "note": "Arms, CPEC, UN \"technical holds\" and live inputs in May 2025, yet signed the SCO condemnation of Pahalgam."
+   },
+   "us": {
+    "title": "United States",
+    "note": "Claimed credit for the 10 May ceasefire (India denies), courted Pakistan’s army chief, cut tariffs on Pakistan."
+   },
+   "pak": {
+    "title": "Pakistan",
+    "note": "27th Amendment (November 2025): the army chief is also Chief of Defence Forces."
+   }
+  },
+  "spots": [
+   {
+    "link": "india",
+    "circle": [
+     82.2,
+     46.9,
+     31.0
+    ]
+   },
+   {
+    "link": "china",
+    "circle": [
+     257.8,
+     46.9,
+     31.0
+    ]
+   },
+   {
+    "link": "us",
+    "circle": [
+     82.2,
+     177.1,
+     31.0
+    ]
+   },
+   {
+    "link": "pak",
+    "circle": [
+     257.8,
+     177.1,
+     31.0
+    ]
+   }
+  ]
+ },
+ "fig03": {
+  "viewBox": "0 0 520 426",
+  "hint": "Hover over or tap a marker, line or river to highlight the matching point.",
+  "map": true,
+  "links": {
+   "ib": {
+    "title": "International Border",
+    "note": "About 2,400 km from Gujarat through Rajasthan and Punjab to Jammu; fenced, guarded by the BSF."
+   },
+   "loc": {
+    "title": "Line of Control",
+    "note": "About 740 km military line from the Shimla Agreement; guarded by the Army."
+   },
+   "agpl": {
+    "title": "AGPL, Siachen",
+    "note": "About 110 km on the Saltoro Ridge north of NJ9842; held by India since Op Meghdoot (1984)."
+   },
+   "sircreek": {
+    "title": "Sir Creek",
+    "note": "96 km tidal estuary in the Rann of Kutch; the boundary decides the maritime boundary and EEZs."
+   },
+   "cpec": {
+    "title": "CPEC",
+    "note": "Khunjerab Pass through Gilgit-Baltistan to Gwadar near Hormuz; India opposes it as a violation of sovereignty."
+   },
+   "rivers": {
+    "title": "Indus rivers",
+    "note": "Indus, Jhelum and Chenab (Western) and Ravi, Beas and Sutlej (Eastern); the Western rivers cross Indian territory first."
+   },
+   "crossings": {
+    "title": "Attari–Wagah and Kartarpur",
+    "note": "The only crossings for people and goods; both closed since 2025."
+   }
+  },
+  "spots": [
+   {
+    "link": "ib",
+    "pins": [
+     [
+      243.7,
+      361
+     ],
+     [
+      250.7,
+      288.6
+     ],
+     [
+      339.1,
+      188.8
+     ]
+    ],
+    "labelAt": [
+     250.7,
+     288.6
+    ]
+   },
+   {
+    "link": "loc",
+    "pins": [
+     [
+      329.8,
+      91.9
+     ],
+     [
+      332.1,
+      111.6
+     ]
+    ],
+    "labelAt": [
+     329.8,
+     91.9
+    ]
+   },
+   {
+    "link": "agpl",
+    "pins": [
+     [
+      402,
+      65
+     ]
+    ],
+    "labelAt": [
+     402,
+     65
+    ]
+   },
+   {
+    "link": "sircreek",
+    "pins": [
+     [
+      204.1,
+      377.6
+     ]
+    ],
+    "labelAt": [
+     204.1,
+     377.6
+    ]
+   },
+   {
+    "link": "cpec",
+    "pins": [
+     [
+      364.7,
+      30.4
+     ],
+     [
+      58,
+      342.3
+     ]
+    ],
+    "paths": [
+     "M364.7,30.4L329.8,53.5L308.9,113L271.6,209L143.6,314.7L58,342.3"
+    ],
+    "labelAt": [
+     271.6,
+     209
+    ]
+   },
+   {
+    "link": "rivers",
+    "paths": [
+     "M492.7,182L471.8,146.3L455.5,140.8L436.9,126.9L420.6,107.4L413.6,100.4L390.3,87.7L367.1,67.8L343.8,56.4L320.5,62.1L306.5,79.2L299.6,101.8L289.1,107.4L274,132.5L262.3,162.8L255.3,200.9L246,242.5L225.1,267.6L211.1,275.5L197.2,306.9L199.5,335.4L185.5,358.5L176.2,371.2",
+     "M358.9,118.6L348.4,102.3L343.8,94.8L338,99L318.2,93.3L320.5,118.6L321.7,129.7L322.8,135.3L304.2,151.9L286.8,183.3",
+     "M400.8,145L383.3,131.1L371,124.2L362.4,128.3L346.8,135.3L336.8,143.6L315.9,162.8L286.8,183.3L274,206.3L260,231.8L246,242.5",
+     "M397.3,151.9L379.2,145L369.4,147.7L367.1,149.9L353.1,160.1L336.8,171.1L311.2,187.4L283.3,196.9",
+     "M402,149.9L404.1,153.5L402,161.2L398,168.3L385.7,164.2L376.4,160.9L367.1,171.1L353.1,182.8",
+     "M497.4,196.9L469.5,182L446.2,171.1L440.4,165.6L427.6,171.1L414.3,175.1L393.8,178.4L386.4,176.2L388,188.2L372.9,187.4L353.1,182.8L343.8,188.8L327.5,206.3L304.2,217.1L276.3,227.8L260,231.8"
+    ],
+    "labelAt": [
+     297.2,
+     182
+    ]
+   },
+   {
+    "link": "crossings",
+    "pins": [
+     [
+      343.1,
+      171.1
+     ],
+     [
+      353.8,
+      157.6
+     ]
+    ],
+    "labelAt": [
+     343.1,
+     171.1
+    ]
+   }
+  ]
+ }
+}

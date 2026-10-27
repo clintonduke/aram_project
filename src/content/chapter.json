@@ -89,7 +89,8 @@
      "id": "fig01",
      "title": "India–Pakistan relations: milestones, 1947 to 2025",
      "caption": "Each attempt at peace (Tashkent, Shimla, Lahore, the Composite Dialogue) was followed by a war or a major terror attack. Since 2016 India’s responses to attacks have become military and public.",
-     "map": false
+     "map": false,
+     "interactive": "fig01"
     },
     {
      "type": "list",
@@ -99,43 +100,50 @@
        "label": "1947–1971, wars and treaties",
        "colon": true,
        "html": "J&amp;K war (1947–48), UN ceasefire line (1949), IWT (1960), Tashkent (1966), the 1971 war and Bangladesh",
-       "tag": "partition legacy"
+       "tag": "partition legacy",
+       "hotspot": "tl1"
       },
       {
        "label": "1972, Shimla",
        "colon": true,
        "html": "ceasefire line converted into the LoC; bilateralism written into the agreement",
-       "tag": "bilateralism"
+       "tag": "bilateralism",
+       "hotspot": "tl2"
       },
       {
        "label": "1972–1998, proxy war",
        "colon": true,
        "html": "Siachen (Op Meghdoot, 1984), the 1988 nuclear installations pact, insurgency in Punjab and from 1989 in J&amp;K, nuclear tests (1998)",
-       "tag": "strategic depth"
+       "tag": "strategic depth",
+       "hotspot": "tl3"
       },
       {
        "label": "1999–2008, peace process with shocks",
        "colon": true,
        "html": "Lahore Declaration then Kargil (1999); Parliament attack and Op Parakram (2001–02); LoC ceasefire (2003); Composite Dialogue and the Lambah–Aziz back channel (2004–07)",
-       "tag": "coercive diplomacy"
+       "tag": "coercive diplomacy",
+       "hotspot": "tl4"
       },
       {
        "label": "2008–2019, stop–start",
        "colon": true,
        "html": "26/11 ended dialogue; Pathankot and Uri (2016, surgical strikes); Pulwama and Balakot (2019); MFN withdrawn; Article 370 changes (August 2019)",
-       "tag": "calibrated retaliation"
+       "tag": "calibrated retaliation",
+       "hotspot": "tl5"
       },
       {
        "label": "2019–2025, cold peace",
        "colon": true,
        "html": "DGMO ceasefire recommitment (February 2021); Kartarpur Corridor (2019); no political dialogue",
-       "tag": "managed hostility"
+       "tag": "managed hostility",
+       "hotspot": "tl6"
       },
       {
        "label": "2025 onwards, “new normal”",
        "colon": true,
        "html": "Pahalgam, IWT abeyance, Op Sindoor, ceasefire understanding (10 May 2025); Pakistan says it may hold Shimla in abeyance",
-       "tag": "deterrence by punishment"
+       "tag": "deterrence by punishment",
+       "hotspot": "tl7"
       }
      ]
     }
@@ -434,13 +442,15 @@
           "label": "Trade",
           "colon": true,
           "html": "exports to Pakistan US$ 2.07 bn (2018-19), US$ 1.18 bn (2023-24), about US$ 0.5 bn (2024-25), ₹1,037.8 crore (about US$ 0.12 bn) in May–October 2025, mostly medicines (<a href=\"https://tradestat.commerce.gov.in/\">Department of Commerce</a>)",
-          "tag": "trade as hostage"
+          "tag": "trade as hostage",
+          "hotspot": "trade"
          },
          {
           "label": "Import ban",
           "colon": true,
           "html": "all direct and indirect imports from Pakistan banned on 2 May 2025 (<a href=\"https://www.dgft.gov.in/\">DGFT</a>)",
-          "tag": "economic coercion"
+          "tag": "economic coercion",
+          "hotspot": "importban"
          },
          {
           "label": "Diplomatic presence",
@@ -481,7 +491,8 @@
         "id": "fig02",
         "title": "India's exports to Pakistan, FY 2018-19 to FY 2025-26 (US$ billion)",
         "caption": "Trade collapsed after India withdrew MFN status and imposed a 200% duty (February 2019) and Pakistan suspended trade (August 2019); most exports since then are medicines allowed on humanitarian grounds. Imports from Pakistan are negligible (under US$ 0.03 billion a year since 2019-20). FY 2025-26 shows May-October 2025 only. Source: Department of Commerce, DGCI&amp;S; Lok Sabha replies.",
-        "map": false
+        "map": false,
+        "interactive": "fig02"
        }
       ]
      ]
@@ -553,43 +564,50 @@
           "label": "International Border",
           "colon": false,
           "html": "(about 2,400 km), Gujarat to Jammu; mostly fenced, guarded by the BSF",
-          "tag": "settled boundary"
+          "tag": "settled boundary",
+          "hotspot": "ib"
          },
          {
           "label": "Line of Control",
           "colon": false,
           "html": "(about 740 km), a military line from Shimla, not an international border; guarded by the Army",
-          "tag": "de facto boundary"
+          "tag": "de facto boundary",
+          "hotspot": "loc"
          },
          {
           "label": "AGPL, Siachen",
           "colon": false,
           "html": "(about 110 km) on the Saltoro Ridge north of NJ9842, held since Op Meghdoot (1984); demilitarisation talks failed in 1989, 1992 and 2006 because Pakistan would not authenticate positions",
-          "tag": "glacier stalemate"
+          "tag": "glacier stalemate",
+          "hotspot": "agpl"
          },
          {
           "label": "Sir Creek",
           "colon": false,
           "html": "(96 km tidal estuary, Rann of Kutch): India claims the mid-channel line, Pakistan the eastern bank (1914 resolution); settles the maritime boundary and EEZs; the 1968 Kutch Tribunal settled only the land boundary",
-          "tag": "thalweg principle"
+          "tag": "thalweg principle",
+          "hotspot": "sircreek"
          },
          {
           "label": "CPEC",
           "colon": false,
           "html": "runs from Khunjerab through Gilgit-Baltistan to Gwadar near Hormuz; India calls it a violation of sovereignty",
-          "tag": "counter-encirclement"
+          "tag": "counter-encirclement",
+          "hotspot": "cpec"
          },
          {
           "label": "Rivers",
           "colon": true,
           "html": "the Western rivers cross Indian territory first, giving India upstream leverage",
-          "tag": "upper riparian"
+          "tag": "upper riparian",
+          "hotspot": "rivers"
          },
          {
           "label": "Crossings",
           "colon": true,
           "html": "Attari–Wagah and Kartarpur were the only crossings; both closed since 2025",
-          "tag": "connectivity freeze"
+          "tag": "connectivity freeze",
+          "hotspot": "crossings"
          }
         ]
        }
@@ -600,7 +618,8 @@
         "id": "fig03",
         "title": "India and Pakistan: flashpoints, corridors and the Indus basin",
         "caption": "India is shown as per the Survey of India. The Line of Control and the AGPL are not drawn; India's position is that the entire Union Territories of Jammu and Kashmir and Ladakh are integral parts of India. CPEC is shown schematically through Pakistan-occupied Kashmir.",
-        "map": true
+        "map": true,
+        "interactive": "fig03"
        }
       ]
      ]
@@ -631,7 +650,8 @@
        "label": "Major attacks",
        "colon": true,
        "html": "Parliament (2001), 26/11 Mumbai (2008, 166 killed), Pathankot and Uri (2016, 19 soldiers), Pulwama (2019, 40 CRPF), Pahalgam (2025, 26 killed)",
-       "tag": "escalating pattern"
+       "tag": "escalating pattern",
+       "hotspot": "ladder"
       },
       {
        "label": "Army dominance",
@@ -687,7 +707,8 @@
           "label": "Escalation risk",
           "colon": true,
           "html": "each crisis since 2016 climbed higher; drones and missiles compress decision time",
-          "tag": "escalation ladder"
+          "tag": "escalation ladder",
+          "hotspot": "ladder"
          },
          {
           "label": "Nuclear shadow",
@@ -722,7 +743,8 @@
         "id": "fig04",
         "title": "The escalation ladder: India's responses to major terror attacks, 2001 to 2025",
         "caption": "From 2016 each response moved higher up the ladder and became more open. India’s position after May 2025: a major terror attack will be met with a military response on India’s terms, with no tolerance for nuclear blackmail.",
-        "map": false
+        "map": false,
+        "interactive": "fig04"
        }
       ]
      ]
@@ -1079,19 +1101,22 @@
           "label": "Treaty law",
           "colon": true,
           "html": "no exit clause; obligations bind",
-          "tag": "pacta sunt servanda, VCLT Art. 26"
+          "tag": "pacta sunt servanda, VCLT Art. 26",
+          "hotspot": "noexit"
          },
          {
           "label": "Changed circumstances",
           "colon": true,
           "html": "suspension allowed for a fundamental change",
-          "tag": "rebus sic stantibus, VCLT Art. 62"
+          "tag": "rebus sic stantibus, VCLT Art. 62",
+          "hotspot": "changed"
          },
          {
           "label": "Good faith",
           "colon": true,
           "html": "a terror sponsor cannot claim treaty goodwill",
-          "tag": "reciprocity"
+          "tag": "reciprocity",
+          "hotspot": "goodwill"
          },
          {
           "label": "Sovereignty vs sharing",
@@ -1103,7 +1128,8 @@
           "label": "Renegotiate or exit",
           "colon": true,
           "html": "“IWT 2.0” with climate data and a single dispute track vs lasting leverage",
-          "tag": "treaty modernisation"
+          "tag": "treaty modernisation",
+          "hotspot": "leverage"
          },
          {
           "label": "Fairness of 1960",
@@ -1120,7 +1146,8 @@
         "id": "fig05",
         "title": "The abeyance debate: arguments on each side",
         "caption": "India’s case rests on good faith and changed circumstances; the counter-case rests on treaty law, the limits of India’s storage and the precedent for upstream China.",
-        "map": false
+        "map": false,
+        "interactive": "fig05"
        }
       ]
      ]
@@ -1138,19 +1165,22 @@
        "label": "Leverage is long-term",
        "colon": true,
        "html": "storage and canals take years",
-       "tag": "capacity gap"
+       "tag": "capacity gap",
+       "hotspot": "storage"
       },
       {
        "label": "Legal isolation risk",
        "colon": false,
        "html": "if India refuses all forums",
-       "tag": "lawfare"
+       "tag": "lawfare",
+       "hotspot": "coa"
       },
       {
        "label": "Real J&K gains",
        "colon": true,
        "html": "power and irrigation",
-       "tag": "development dividend"
+       "tag": "development dividend",
+       "hotspot": "projects"
       },
       {
        "label": "Humanitarian risk",
@@ -1162,7 +1192,8 @@
        "label": "Brahmaputra precedent",
        "colon": false,
        "html": "could weaken India as a lower riparian",
-       "tag": "consistency"
+       "tag": "consistency",
+       "hotspot": "precedent"
       },
       {
        "label": "Pakistan’s narrative",
@@ -1527,19 +1558,22 @@
           "label": "China",
           "colon": true,
           "html": "main arms supplier (J-10C, PL-15, Hangor submarines), CPEC (announced at US$ 62 bn), UN “technical holds”; weapons and live inputs used in May 2025",
-          "tag": "all-weather partnership; two-front threat"
+          "tag": "all-weather partnership; two-front threat",
+          "hotspot": "china"
          },
          {
           "label": "China’s balance",
           "colon": true,
           "html": "revived “CPEC 2.0” (2025) yet signed the SCO Tianjin Declaration condemning Pahalgam",
-          "tag": "strategic hedging"
+          "tag": "strategic hedging",
+          "hotspot": "china"
          },
          {
           "label": "United States",
           "colon": true,
           "html": "claimed credit for the 10 May ceasefire (India denies), hosted Pakistan’s army chief twice in 2025, oil and minerals deals, tariff cut to 19%",
-          "tag": "re-hyphenation; transactionalism"
+          "tag": "re-hyphenation; transactionalism",
+          "hotspot": "us"
          },
          {
           "label": "Saudi Arabia and Türkiye",
@@ -1557,19 +1591,22 @@
           "label": "Afghanistan",
           "colon": true,
           "html": "Taliban hostile to Pakistan; India upgraded its Kabul mission to an embassy (October 2025)",
-          "tag": "Mandala — Kautilya"
+          "tag": "Mandala — Kautilya",
+          "hotspot": "india"
          },
          {
           "label": "Iran",
           "colon": true,
           "html": "Chabahar gives India a route around Pakistan",
-          "tag": "connectivity diplomacy"
+          "tag": "connectivity diplomacy",
+          "hotspot": "india"
          },
          {
           "label": "Inside Pakistan",
           "colon": true,
           "html": "27th Amendment (November 2025) made the army chief Chief of Defence Forces",
-          "tag": "praetorian state"
+          "tag": "praetorian state",
+          "hotspot": "pak"
          }
         ]
        }
@@ -1580,7 +1617,8 @@
         "id": "fig06",
         "title": "India, Pakistan and the outside poles: China and the United States",
         "caption": "China is Pakistan’s military and diplomatic patron, which creates India’s two-front problem; the 2025–26 US tilt to Pakistan limits India’s ability to isolate it. The Gulf and Afghanistan poles are in the table alongside.",
-        "map": false
+        "map": false,
+        "interactive": "fig06"
        }
       ]
      ]
@@ -1916,7 +1954,7 @@
         },
         {
          "type": "sketch",
-         "html": "<b>[SKETCH]</b> Escalation ladder: Uri 2016 (rung 2), Pulwama 2019 (rung 3), Pahalgam 2025 (rung 4), with the nuclear threshold at the top."
+         "html": "<b>[SKETCH]</b> Escalation ladder: Uri 2016 (rung 3), Pulwama 2019 (rung 4), Pahalgam 2025 (rung 5), with the nuclear threshold at the top."
         },
         {
          "type": "p",

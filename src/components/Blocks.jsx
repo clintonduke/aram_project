@@ -1,19 +1,47 @@
 import React from 'react';
 import Rich from './Rich.jsx';
 import figures from '../content/figures/index.js';
+import InteractiveFigure from './InteractiveFigure.jsx';
+import { useHighlight } from './Highlight.jsx';
 
 function PointList({ block }) {
   const Tag = block.ordered ? 'ol' : 'ul';
   return (
     <Tag className="points">
-      {block.items.map((it, i) => (
-        <li key={i}>
-          {it.label && <b>{it.label}{it.colon ? ':' : ''} </b>}
-          <Rich html={it.html} />
-          {it.tag && <span className="tg"> ({it.tag})</span>}
-        </li>
-      ))}
+      {block.items.map((it, i) => (it.hotspot ? <LinkedPoint key={i} it={it} /> : (
+        <li key={i}><PointText it={it} /></li>
+      )))}
     </Tag>
+  );
+}
+
+function PointText({ it }) {
+  return (
+    <>
+      {it.label && <b>{it.label}{it.colon ? ':' : ''} </b>}
+      <Rich html={it.html} />
+      {it.tag && <span className="tg"> ({it.tag})</span>}
+    </>
+  );
+}
+
+// A point linked to a map feature: hover, focus or tap it to light up the feature.
+function LinkedPoint({ it }) {
+  const { active, hover, pin } = useHighlight();
+  const on = active === it.hotspot;
+  return (
+    <li
+      className={`linked${on ? ' on' : ''}`}
+      tabIndex={0}
+      onMouseEnter={() => hover(it.hotspot)}
+      onMouseLeave={() => hover(null)}
+      onFocus={() => hover(it.hotspot)}
+      onBlur={() => hover(null)}
+      onClick={() => pin(it.hotspot)}
+    >
+      <PointText it={it} />
+      <span className="map-badge" aria-hidden="true">fig</span>
+    </li>
   );
 }
 
@@ -37,6 +65,9 @@ function DataTable({ block }) {
 }
 
 function Figure({ block }) {
+  if (block.interactive) {
+    return <InteractiveFigure figId={block.interactive} svg={figures[block.id]} title={block.title} caption={block.caption} />;
+  }
   return (
     <figure className={`fig${block.map ? ' fig-map' : ''}`}>
       {block.title && <figcaption className="fig-title"><Rich html={block.title} /></figcaption>}
@@ -95,7 +126,7 @@ export default function Blocks({ blocks }) {
         return <Figure key={i} block={b} />;
       case 'columns':
         return (
-          <div key={i} className="columns">
+          <div key={i} className={`columns${b.cols.some((c) => c.some((x) => x.interactive)) ? ' has-map' : ''}`}>
             {b.cols.map((c, j) => <div key={j} className="col"><Blocks blocks={c} /></div>)}
           </div>
         );

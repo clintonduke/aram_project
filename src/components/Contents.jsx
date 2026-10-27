@@ -1,19 +1,22 @@
 import React, { useEffect, useState } from 'react';
 
-// Section list that highlights the section currently on screen.
+// Section list that highlights the section currently being read.
 export default function Contents({ sections }) {
   const [active, setActive] = useState(sections[0]?.id);
   useEffect(() => {
-    const els = sections.map((s) => document.getElementById(s.id)).filter(Boolean);
-    const obs = new IntersectionObserver(
-      (entries) => {
-        const seen = entries.filter((e) => e.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
-        if (seen[0]) setActive(seen[0].target.id);
-      },
-      { rootMargin: '0px 0px -70% 0px' }
-    );
-    els.forEach((el) => obs.observe(el));
-    return () => obs.disconnect();
+    // The active section is the last one whose top has passed 120px from the top of the window.
+    const onScroll = () => {
+      let cur = sections[0]?.id;
+      for (const s of sections) {
+        const el = document.getElementById(s.id);
+        if (el && el.getBoundingClientRect().top <= 120) cur = s.id;
+      }
+      setActive(cur);
+    };
+    onScroll();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    return () => { window.removeEventListener('scroll', onScroll); window.removeEventListener('resize', onScroll); };
   }, [sections]);
 
   const list = (

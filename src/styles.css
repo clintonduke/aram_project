@@ -137,3 +137,49 @@ table.kt td:nth-child(3) { font-style: italic; color: var(--muted); }
   .layout { display: block; }
   .page { box-shadow: none; padding: 0; }
 }
+
+/* ---------- Interactive figures (hover links between figures and numbered points) ---------- */
+.columns.has-map { align-items: flex-start; }
+.columns.has-map > .col:last-child { position: sticky; top: 16px; }
+
+.points li.linked { position: relative; cursor: pointer; border-radius: 6px; padding: 4px 44px 4px 6px; margin-left: -6px; transition: background-color .15s ease, box-shadow .15s ease; outline: none; }
+.points li.linked:hover, .points li.linked:focus-visible { background: var(--tint); }
+.points li.linked.on { background: #FBF3E2; box-shadow: inset 3px 0 0 var(--acc); }
+.points li.linked .map-badge { position: absolute; right: 6px; top: 6px; font-family: var(--mono); font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: var(--pri2); border: 1px solid var(--line); border-radius: 3px; padding: 0 4px; background: #fff; }
+.points li.linked.on .map-badge { color: #fff; background: var(--acc); border-color: var(--acc); }
+
+.ifig-hint { font-size: 13px; color: var(--muted); margin: 0 0 8px; }
+.ifig-stage { position: relative; }
+.ifig-base svg { display: block; width: 100%; height: auto; transition: opacity .2s ease; }
+.ifig-stage.has-active .ifig-base svg { opacity: .8; }
+.ifig-layer { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+
+.spot { cursor: pointer; outline: none; }
+.spot .box { fill: rgba(30, 58, 95, 0); stroke: rgba(30, 58, 95, .28); stroke-width: 1; stroke-dasharray: 3 3; transition: all .15s ease; }
+.spot:hover .box, .spot:focus-visible .box { stroke: var(--pri); stroke-dasharray: none; }
+.spot.on .box { fill: rgba(180, 138, 60, .16); stroke: var(--acc); stroke-width: 2.2; stroke-dasharray: none; }
+.spot .hit-pin { fill: transparent; }
+.spot .hit-line { fill: none; stroke: transparent; stroke-width: 14; stroke-linecap: round; stroke-linejoin: round; }
+.spot .ring { fill: none; stroke: var(--pri); stroke-width: 1.4; opacity: .55; transition: all .15s ease; }
+.spot .dot { fill: var(--pri); opacity: .75; transition: all .15s ease; }
+.spot .glow-line { fill: none; stroke: transparent; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; transition: stroke .15s ease; }
+.spot:hover .ring, .spot:focus-visible .ring { opacity: 1; }
+.spot.on .ring { stroke: var(--acc); stroke-width: 2.4; opacity: 1; animation: ifig-pulse 1.4s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+.spot.on .dot { fill: var(--acc); opacity: 1; }
+.spot.on .glow-cpec { stroke: rgba(180, 138, 60, .85); stroke-dasharray: 7 4; }
+.spot.on .glow-rivers { stroke: rgba(44, 120, 190, .85); }
+.spot .label rect { fill: var(--pri); }
+.spot .label text { fill: #fff; font-family: var(--sans); font-size: 10px; font-weight: 700; }
+@keyframes ifig-pulse { 0% { transform: scale(.7); } 70% { transform: scale(1.25); } 100% { transform: scale(.7); } }
+@media (prefers-reduced-motion: reduce) { .spot.on .ring { animation: none; } }
+
+.ifig-chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 8px; }
+.ifig-chips button { font-family: var(--sans); font-size: 13px; font-weight: 600; color: var(--pri); background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 4px 10px; cursor: pointer; text-align: left; }
+.ifig-chips button:hover { background: var(--tint); }
+.ifig-chips button.on { background: var(--acc); border-color: var(--acc); color: #fff; }
+.ifig-info { min-height: 44px; font-size: 14px; background: var(--tint2); border-radius: 6px; padding: 8px 12px; }
+
+@media (max-width: 720px) {
+  .columns.has-map > .col:last-child { position: static; }
+  .points li.linked { padding-right: 40px; }
+}

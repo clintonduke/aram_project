@@ -108,3 +108,18 @@ last = data['sections'][-1]['blocks']; data['pyq'] = next((b for b in last if b[
 data['sections'][-1]['blocks'] = [b for b in last if b['type'] != 'pyq']
 json.dump(data, open(f'{OUT}/chapter.json', 'w'), ensure_ascii=False, indent=1)
 print('sections', len(data['sections']), 'figures', figs, 'pyq rows', len(data['pyq']['rows']) if data['pyq'] else 0)
+
+# ---- interactive border map: link Section 5 points to map hotspots ----
+HOT = {'c01-s5': ['ib', 'loc', 'agpl', 'sircreek', 'cpec', 'rivers', 'crossings']}
+for sec in data['sections']:
+    ids = HOT.get(sec['id'])
+    if not ids: continue
+    for b in sec['blocks']:
+        if b['type'] != 'columns': continue
+        for col in b['cols']:
+            for x in col:
+                if x['type'] == 'list':
+                    for it, hid in zip(x['items'], ids): it['hotspot'] = hid
+                if x['type'] == 'figure' and x.get('map'): x['interactive'] = 'borderMap'
+json.dump(data, open(f'{OUT}/chapter.json', 'w'), ensure_ascii=False, indent=1)
+print('linked map hotspots')

@@ -1,0 +1,133 @@
+{
+ "viewBox": "0 0 520 426",
+ "hotspots": [
+  {
+   "id": "ib",
+   "title": "International Border",
+   "note": "About 2,400 km from Gujarat through Rajasthan and Punjab to Jammu; fenced, guarded by the BSF.",
+   "pins": [
+    [
+     243.7,
+     361
+    ],
+    [
+     250.7,
+     288.6
+    ],
+    [
+     339.1,
+     188.8
+    ]
+   ],
+   "labelAt": [
+    250.7,
+    288.6
+   ]
+  },
+  {
+   "id": "loc",
+   "title": "Line of Control",
+   "note": "About 740 km military line from the Shimla Agreement; guarded by the Army.",
+   "pins": [
+    [
+     329.8,
+     91.9
+    ],
+    [
+     332.1,
+     111.6
+    ]
+   ],
+   "labelAt": [
+    329.8,
+    91.9
+   ]
+  },
+  {
+   "id": "agpl",
+   "title": "AGPL, Siachen",
+   "note": "About 110 km on the Saltoro Ridge north of NJ9842; held by India since Op Meghdoot (1984).",
+   "pins": [
+    [
+     402,
+     65
+    ]
+   ],
+   "labelAt": [
+    402,
+    65
+   ]
+  },
+  {
+   "id": "sircreek",
+   "title": "Sir Creek",
+   "note": "96 km tidal estuary in the Rann of Kutch; the boundary decides the maritime boundary and EEZs.",
+   "pins": [
+    [
+     204.1,
+     377.6
+    ]
+   ],
+   "labelAt": [
+    204.1,
+    377.6
+   ]
+  },
+  {
+   "id": "cpec",
+   "title": "CPEC",
+   "note": "Khunjerab Pass through Gilgit-Baltistan to Gwadar near Hormuz; India opposes it as a violation of sovereignty.",
+   "path": "M364.7,30.4L329.8,53.5L308.9,113L271.6,209L143.6,314.7L58,342.3",
+   "pins": [
+    [
+     364.7,
+     30.4
+    ],
+    [
+     58,
+     342.3
+    ]
+   ],
+   "labelAt": [
+    271.6,
+    209
+   ]
+  },
+  {
+   "id": "rivers",
+   "title": "Indus rivers",
+   "note": "Indus, Jhelum and Chenab (Western) and Ravi, Beas and Sutlej (Eastern); the Western rivers cross Indian territory first.",
+   "paths": [
+    "M492.7,182L471.8,146.3L455.5,140.8L436.9,126.9L420.6,107.4L413.6,100.4L390.3,87.7L367.1,67.8L343.8,56.4L320.5,62.1L306.5,79.2L299.6,101.8L289.1,107.4L274,132.5L262.3,162.8L255.3,200.9L246,242.5L225.1,267.6L211.1,275.5L197.2,306.9L199.5,335.4L185.5,358.5L176.2,371.2",
+    "M358.9,118.6L348.4,102.3L343.8,94.8L338,99L318.2,93.3L320.5,118.6L321.7,129.7L322.8,135.3L304.2,151.9L286.8,183.3",
+    "M400.8,145L383.3,131.1L371,124.2L362.4,128.3L346.8,135.3L336.8,143.6L315.9,162.8L286.8,183.3L274,206.3L260,231.8L246,242.5",
+    "M397.3,151.9L379.2,145L369.4,147.7L367.1,149.9L353.1,160.1L336.8,171.1L311.2,187.4L283.3,196.9",
+    "M402,149.9L404.1,153.5L402,161.2L398,168.3L385.7,164.2L376.4,160.9L367.1,171.1L353.1,182.8",
+    "M497.4,196.9L469.5,182L446.2,171.1L440.4,165.6L427.6,171.1L414.3,175.1L393.8,178.4L386.4,176.2L388,188.2L372.9,187.4L353.1,182.8L343.8,188.8L327.5,206.3L304.2,217.1L276.3,227.8L260,231.8"
+   ],
+   "labelAt": [
+    297.2,
+    182
+   ]
+  },
+  {
+   "id": "crossings",
+   "title": "Attari–Wagah and Kartarpur",
+   "note": "The only crossings for people and goods; both closed since 2025.",
+   "pins": [
+    [
+     343.1,
+     171.1
+    ],
+    [
+     353.8,
+     157.6
+    ]
+   ],
+   "labelAt": [
+    343.1,
+    171.1
+   ]
+  }
+ ]
+}

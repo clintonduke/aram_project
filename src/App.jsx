@@ -4,10 +4,12 @@ import Blocks from './components/Blocks.jsx';
 import Contents from './components/Contents.jsx';
 import PyqTable from './components/PyqTable.jsx';
 import Rich from './components/Rich.jsx';
+import { HighlightProvider } from './components/Highlight.jsx';
 import logo from './assets/aram.png';
 
 export default function App() {
   return (
+    <HighlightProvider>
     <div className="site">
       <header className="topbar">
         <img src={logo} alt="ARAM IAS Academy" />
@@ -38,5 +40,6 @@ export default function App() {
         <a className="to-top" href="#root">Back to top</a>
       </footer>
     </div>
+    </HighlightProvider>
   );
 }
